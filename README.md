@@ -1,5 +1,19 @@
-# annotation_workflow_template
 
-This repo holds the current version of the DCML annotation workflow which is pulled by all subcorpus repos upon push to their main branch. 
 
-Please note that the `meta_ corpora` branch should be used with collections of corpora.
+# Overview
+|file_name|measures|labels|standard|annotators|reviewers|
+|---------|-------:|-----:|--------|----------|---------|
+|op06n01  |      18|     0|        |          |         |
+|op06n02  |      30|     0|        |          |         |
+|op06n03  |      24|     0|        |          |         |
+|op06n04  |      12|     0|        |          |         |
+|op06n05  |      90|     0|        |          |         |
+|op06n06  |      25|     0|        |          |         |
+|op06n07  |     118|     0|        |          |         |
+|op06n08  |      32|     0|        |          |         |
+|op06n09  |      70|     0|        |          |         |
+|op06n10  |     102|     0|        |          |         |
+|op06n11  |      87|     0|        |          |         |
+|op06n12  |      44|     0|        |          |         |
+|op06n13  |      26|     0|        |          |         |
+|op06n14  |     219|     0|        |          |         |
