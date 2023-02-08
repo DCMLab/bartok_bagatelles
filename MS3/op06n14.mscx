@@ -13933,6 +13933,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>}</name>
+            </Harmony>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -13960,6 +13964,10 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -13976,7 +13984,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr43(b10b9)/IV}{</name>
+            <name>Fr43(b10b9)/IV</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
