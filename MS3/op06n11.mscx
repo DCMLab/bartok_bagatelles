@@ -9371,7 +9371,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%43/V}</name>
+            <name>vii%43/V</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -9393,7 +9393,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IM7(4)/bV{</name>
+            <name>IM7(4)/bV</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
