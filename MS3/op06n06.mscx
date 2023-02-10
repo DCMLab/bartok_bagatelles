@@ -67,12 +67,14 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="annotators">Amelia Brey</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1908</metaTag>
     <metaTag name="composed_start">1908</metaTag>
     <metaTag name="composer">Bela Bartok</metaTag>
     <metaTag name="copyright">©</metaTag>
     <metaTag name="creationDate">2022-08-05</metaTag>
+    <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="imslp">https://imslp.org/wiki/14_Bagatelles%2C_Op.6_(Bart%C3%B3k%2C_B%C3%A9la)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">6</metaTag>
@@ -80,6 +82,7 @@
     <metaTag name="musicbrainz">https://musicbrainz.org/work/38dfe04b-4f04-4c38-898f-3d461bb30ee3</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="reviewers">DK</metaTag>
     <metaTag name="score_integrity">Amelia Brey</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
@@ -1862,7 +1865,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(v#4)</name>
+            <name>I(#4)</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -1911,7 +1914,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(v#4)</name>
+            <name>I(#4)</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -2063,7 +2066,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(v#4)/#vi</name>
+            <name>I(#4)/#vi</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -2853,7 +2856,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(v#4)</name>
+            <name>I(#4)</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -2919,7 +2922,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(v#4)-I(v#4)</name>
+            <name>i(#4)-I(#4)</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -2985,7 +2988,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(v#4)-I(v#4)</name>
+            <name>i(#4)-I(#4)</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -3051,7 +3054,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(v#4)</name>
+            <name>I(#4)</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -3176,7 +3179,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(v#4)}</name>
+            <name>I(#4)}</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
