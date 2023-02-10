@@ -3594,7 +3594,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(139)</name>
+            <name>i(13)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -3672,10 +3672,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i(13#11#10)</name>
-            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
