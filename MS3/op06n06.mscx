@@ -1862,7 +1862,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(ˇ#4)</name>
+            <name>I(v#4)</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -1911,7 +1911,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(ˇ#4)</name>
+            <name>I(v#4)</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -2063,7 +2063,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(ˇ#4)/#vi</name>
+            <name>I(v#4)/#vi</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -2852,7 +2852,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(ˇ#4)</name>
+            <name>I(v#4)</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -2918,7 +2918,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(ˇ#4)-I(ˇ#4)</name>
+            <name>i(v#4)-I(v#4)</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -2984,7 +2984,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(ˇ#4)-I(ˇ#4)</name>
+            <name>i(v#4)-I(v#4)</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -3050,7 +3050,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(ˇ#4)</name>
+            <name>I(v#4)</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -3175,7 +3175,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(ˇ#4)}</name>
+            <name>I(v#4)}</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
