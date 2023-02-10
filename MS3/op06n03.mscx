@@ -4862,7 +4862,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>e.V64(6){</name>
+            <name>e.V64(+6){</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -4991,7 +4991,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64(6)</name>
+            <name>V64(+6)</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -5128,7 +5128,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64(6)</name>
+            <name>V64(+6)</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -5454,7 +5454,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64(6){</name>
+            <name>V64(+6){</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -5554,7 +5554,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64(6)</name>
+            <name>V64(+6)</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
