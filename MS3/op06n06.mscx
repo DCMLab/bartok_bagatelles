@@ -80,7 +80,6 @@
     <metaTag name="musicbrainz">https://musicbrainz.org/work/38dfe04b-4f04-4c38-898f-3d461bb30ee3</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">DK</metaTag>
     <metaTag name="score_integrity">Amelia Brey</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
@@ -1839,7 +1838,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(#11#10)</name>
+            <name>I</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -1859,7 +1858,14 @@
               </Note>
             </Chord>
           <location>
-            <fractions>-1/2</fractions>
+            <fractions>-3/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I(ˇ#4)</name>
+            </Harmony>
+          <location>
+            <fractions>1/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -1883,7 +1889,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(#11#10)</name>
+            <name>I</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -1900,6 +1906,16 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I(ˇ#4)</name>
+            </Harmony>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>III</name>
@@ -2023,7 +2039,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(#11#10)/#vi</name>
+            <name>I/#vi</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -2043,7 +2059,14 @@
               </Note>
             </Chord>
           <location>
-            <fractions>-1/2</fractions>
+            <fractions>-3/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I(ˇ#4)/#vi</name>
+            </Harmony>
+          <location>
+            <fractions>1/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -2565,9 +2588,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="-0.837013" y="2.37154"/>
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -2810,7 +2830,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(#11#10)</name>
+            <name>I</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -2827,6 +2847,16 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I(ˇ#4)</name>
+            </Harmony>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>III</name>
@@ -2856,7 +2886,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(#11)</name>
+            <name>i-I</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -2883,6 +2913,16 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i(ˇ#4)-I(ˇ#4)</name>
+            </Harmony>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>III</name>
@@ -2912,7 +2952,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(#11)</name>
+            <name>i-I</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -2939,6 +2979,16 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i(ˇ#4)-I(ˇ#4)</name>
+            </Harmony>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>III(13)</name>
@@ -2968,7 +3018,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(#11#10)</name>
+            <name>I</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -2995,6 +3045,16 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I(ˇ#4)</name>
+            </Harmony>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>III</name>
@@ -3072,7 +3132,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(#11#10)}</name>
+            <name>I</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -3113,6 +3173,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I(ˇ#4)}</name>
+            </Harmony>
           <Chord>
             <durationType>whole</durationType>
             <Note>
