@@ -13,3 +13,4 @@ N.B. Data extraction will display warnings in nos. 9 and 12 due to deliberately 
 |op06n11  |      87|   100|2.3.0   |Amelia Brey|DK       |
 |op06n12  |      44|    77|2.3.0   |Amelia Brey|DK       |
 |op06n13  |      26|    42|        |           |DK       |
+|op06n14  |     219|   199|2.3.0   |Amelia Brey|DK       |
