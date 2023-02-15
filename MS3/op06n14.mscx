@@ -68,12 +68,14 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="annotators">Amelia Brey</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1908</metaTag>
     <metaTag name="composed_start">1908</metaTag>
     <metaTag name="composer">Bela Bartok</metaTag>
     <metaTag name="copyright">©</metaTag>
     <metaTag name="creationDate">2022-08-06</metaTag>
+    <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="imslp">https://imslp.org/wiki/14_Bagatelles%2C_Op.6_(Bart%C3%B3k%2C_B%C3%A9la)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">14</metaTag>
@@ -15239,7 +15241,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i/bIII}{</name>
+            <name>i/bIII</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -15258,6 +15260,10 @@
               <tpc>8</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>}{</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
