@@ -12505,7 +12505,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#IV(#9#11)</name>
+            <name>#IV(#9#11)-#iv(b10#9)</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
