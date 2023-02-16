@@ -14088,7 +14088,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii(94)</name>
+            <name>vii(#94)</name>
+            <offset x="0" y="3.80083"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
