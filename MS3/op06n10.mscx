@@ -2513,11 +2513,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="-0.1" y="2"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -2530,11 +2525,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o2 x="0.469758" y="-0.939516"/>
-                  <o3 x="0.626344" y="-1.25269"/>
-                  <o4 x="0.156586" y="0.156586"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -2618,12 +2608,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0.2" y="2"/>
-                <off2 x="0" y="0"/>
-                <minDistance>-0.161345</minDistance>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -9862,6 +9846,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I(b9)</name>
+            <offset x="-0.329029" y="3.23891"/>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -9890,6 +9875,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio7(9)</name>
+            <offset x="0" y="3.71935"/>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -9903,6 +9889,10 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I(b9)</name>
+            </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
@@ -9915,6 +9905,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio7(#0)/vi</name>
+            <offset x="0.219353" y="3.06129"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -11539,9 +11530,14 @@
               <subtype>1</subtype>
               <placement>above</placement>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>3</subtype>
                 <offset x="0.0500534" y="-2.61634"/>
                 <off2 x="-0.0500534" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>1</subtype>
+                <offset x="0" y="-2"/>
+                <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
             <next>
