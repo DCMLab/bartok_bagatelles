@@ -9029,7 +9029,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii(139)</name>
+            <name>ii(b13#109)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -9260,7 +9260,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii(139)</name>
+            <name>ii(b13#109)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -9462,7 +9462,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(13#119)|HC}</name>
+            <name>V(#119)|HC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -10321,7 +10321,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2(13#73)</name>
+            <name>V2(13b8)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -10672,7 +10672,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.iM7(9)</name>
+            <name>I.iM7(9)</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -11063,7 +11063,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IIIM65(#11)</name>
+            <name>IIIM65(#11)-#v(139)</name>
             </Harmony>
           <location>
             <fractions>3/16</fractions>
@@ -11251,7 +11251,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii(b139)</name>
+            <name>ii(b13#109)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
