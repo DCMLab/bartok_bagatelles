@@ -12700,7 +12700,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIII+2</name>
+            <name>bIII+2-V64(b13)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
