@@ -12724,7 +12724,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV+2</name>
+            <name>IV+2-VI64(b13b10)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
