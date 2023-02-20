@@ -13209,7 +13209,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII(b13#9)</name>
+            <name>bII(b13#9)-bII(b139)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
