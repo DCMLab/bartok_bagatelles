@@ -9952,7 +9952,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7(#1)/iii-#viio7(#1)/v</name>
+            <name>#viio7(#1)/iii-#vii%2(b14)/v</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
