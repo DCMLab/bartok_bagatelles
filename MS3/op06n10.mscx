@@ -14153,7 +14153,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(4)/vi</name>
+            <name>V7(4)/vi-V43(9)/vi</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
