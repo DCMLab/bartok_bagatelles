@@ -7417,7 +7417,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ioM2(4)</name>
+            <name>io6(#74)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -7486,7 +7486,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIM2(b54)</name>
+            <name>bIM65(b54)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
