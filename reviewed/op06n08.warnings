@@ -1,10 +1,6 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-DCML_HARMONY_SYNTAX_WARNING (15,) ms3.Parse.bartok_bagatelles.op06n08 --
-	Score contains 1 labels that don't (and 69 that do) match the DCML standard:
-	    mc  mn    label harmony_layer
-	63  29  29  ioM2(4)             1
 DCML_HARMONY_INCOMPLETE_PEDAL_COLUMN_WARNING (13,) ms3.Parse.bartok_bagatelles.op06n08 --
 	propagate_pedal() failed with
 	1 organ points started, 0 ended:
