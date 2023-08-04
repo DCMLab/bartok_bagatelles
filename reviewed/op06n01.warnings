@@ -2,13 +2,13 @@ Warnings encountered during the last execution of ms3 review
 ============================================================
 
 WARNING  ms3.Parse.bartok_bagatelles.op06n01 --
-	MC 16: VM42: M requires figbass (7, 65, 43, or 2) since it specifies a chord's seventh.
-WARNING  ms3.Parse.bartok_bagatelles.op06n01 --
 	MC 15: VM42: M requires figbass (7, 65, 43, or 2) since it specifies a chord's seventh.
 WARNING  ms3.Parse.bartok_bagatelles.op06n01 --
 	MC 16: VM42: M requires figbass (7, 65, 43, or 2) since it specifies a chord's seventh.
 WARNING  ms3.Parse.bartok_bagatelles.op06n01 --
 	MC 15: VM42: M requires figbass (7, 65, 43, or 2) since it specifies a chord's seventh.
+WARNING  ms3.Parse.bartok_bagatelles.op06n01 --
+	MC 16: VM42: M requires figbass (7, 65, 43, or 2) since it specifies a chord's seventh.
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 6, '0', '#III(b5)') ms3.Parse.bartok_bagatelles.op06n01 --
 	The label '#III(b5)' in m. 6, onset 0 (MC 6, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c#.i, it expresses the scale degrees ('#3', '#5', '7') [('E#', 'G##', 'B')].
