@@ -1,0 +1,27 @@
+mc	mn	quarterbeats	duration_qb	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord	numeral	form	figbass	changes	relativeroot	cadence	phraseend	chord_type	globalkey_is_minor	localkey_is_minor	chord_tones	added_tones	root	bass_note
+1	1	0	8.0	0	0	4/4	2	1	c#.i(b5){	c#	i		i(b5)	i			b5			{	m	1	1	0, -3, -6		0	0
+3	3	8	4.0	0	0	4/4	2	1	V6(^4)	c#	i		V6(^4)	V		6	^4				M	1	1	5, 0, 1		1	5
+4	4	12	4.0	0	0	4/4	2	1	i(b5)	c#	i		i(b5)	i			b5				m	1	1	0, -3, -6		0	0
+5	5	16	4.0	0	0	4/4	2	1	V65	c#	i		V65	V		65					Mm7	1	1	5, 2, -1, 1		1	5
+6	6	20	2.0	0	0	4/4	2	1	#III(b5)	c#	i		#III(b5)	#III			b5				M	1	1	4, 8, -2		4	4
+6	6	22	2.0	1/2	1/2	4/4	2	1	#III	c#	i		#III	#III							M	1	1	4, 8, 5		4	4
+7	7	24	4.0	0	0	4/4	2	1	iv(4)	c#	i		iv(4)	iv			4				m	1	1	-1, -2, 0		-1	-1
+8	8	28	2.0	0	0	4/4	2	1	III.IVM7	c#	III		IVM7	IV	M	7					MM7	1	0	-1, 3, 0, 4		-1	-1
+8	8	30	2.0	1/2	1/2	4/4	2	1	I|PC}	c#	III		I	I					PC	}	M	1	0	0, 4, 1		0	0
+9	9	32	4.0	0	0	4/4	2	2	io65{	c#	III		io65	i	o	65				{	o7	1	0	-3, -6, -9, 0		0	-3
+10	10	36	2.0	0	0	4/4	2	1	V65/vi	c#	III		V65/vi	V		65		vi			Mm7	1	0	8, 5, 2, 4		4	8
+10	10	38	2.0	1/2	1/2	4/4	2	1	V(9)	c#	III		V(9)	V			9				M	1	0	1, 5, 2	3	1	1
+11	11	40	4.0	0	0	4/4	2	1	io65	c#	III		io65	i	o	65					o7	1	0	-3, -6, -9, 0		0	-3
+12	12	44	2.0	0	0	4/4	2	1	iv6	c#	III		iv6	iv		6					m	1	0	-4, 0, -1		-1	-4
+12	12	46	2.0	1/2	1/2	4/4	2	1	V(9)	c#	III		V(9)	V			9				M	1	0	1, 5, 2	3	1	1
+13	13	48	2.0	0	0	4/4	2	1	I(9)	c#	III		I(9)	I			9				M	1	0	0, 4, 1	2	0	0
+13	13	50	2.0	1/2	1/2	4/4	2	1	vi(9)	c#	III		vi(9)	vi			9				m	1	0	3, 0, 4	5	3	3
+14	14	52	2.0	0	0	4/4	2	1	IV(9)	c#	III		IV(9)	IV			9				M	1	0	-1, 3, 0	1	-1	-1
+14	14	54	2.0	1/2	1/2	4/4	2	1	vi(4)	c#	III		vi(4)	vi			4				m	1	0	3, 2, 4		3	3
+15	15	56	2.0	0	0	4/4	2	2	VM42	c#	III		VM42	V	M	42					MM7	1	0				
+15	15	58	2.0	1/2	1/2	4/4	2	2	VM65	c#	III		VM65	V	M	65					MM7	1	0	5, 2, 6, 1		1	5
+16	16	60	2.0	0	0	4/4	2	2	vi(4)	c#	III		vi(4)	vi			4				m	1	0	3, 2, 4		3	3
+16	16	62	2.0	1/2	1/2	4/4	2	1	VM42	c#	III		VM42	V	M	42					MM7	1	0				
+17	17	64	2.0	0	0	4/4	2	2	bI.vi6	c#	bI		vi6	vi		6					m	1	0	0, 4, 3		3	0
+17	17	66	2.0	1/2	1/2	4/4	2	2	V(6)	c#	bI		V(6)	V			6				M	1	0	1, 5, 4		1	1
+18	18	68	4.0	0	0	4/4	2	2	I(b10)|IAC}	c#	bI		I(b10)	I			b10		IAC	}	M	1	0	0, 4, 1	-3	0	0

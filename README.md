@@ -5,7 +5,7 @@ N.B. Data extraction will display warnings in nos. 9 and 12 due to deliberately 
 ## Overview
 |file_name|measures|labels|standard|annotators | reviewers  |
 |---------|-------:|-----:|--------|-----------|------------|
-|op06n01  |      18|     0|        |           |            |
+|op06n01  |      18|    26|        |           |            |
 |op06n02  |      30|     0|        |           |            |
 |op06n03  |      24|    32|2.3.0   |Amelia Brey|DK          |
 |op06n04  |      12|    42|2.3.0   |Amelia Brey|DK          |
