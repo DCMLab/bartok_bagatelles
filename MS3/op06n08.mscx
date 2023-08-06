@@ -7417,7 +7417,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>io6(#74)</name>
+            <name>io6(+74)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
