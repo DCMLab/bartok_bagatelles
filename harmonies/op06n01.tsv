@@ -18,10 +18,9 @@ mc	mn	quarterbeats	duration_qb	mc_onset	mn_onset	timesig	staff	voice	label	globa
 13	13	50	2.0	1/2	1/2	4/4	2	1	vi(9)	c#	III		vi(9)	vi			9				m	1	0	3, 0, 4	5	3	3
 14	14	52	2.0	0	0	4/4	2	1	IV(9)	c#	III		IV(9)	IV			9				M	1	0	-1, 3, 0	1	-1	-1
 14	14	54	2.0	1/2	1/2	4/4	2	1	vi(4)	c#	III		vi(4)	vi			4				m	1	0	3, 2, 4		3	3
-15	15	56	2.0	0	0	4/4	2	2	VM42	c#	III		VM42	V	M	42					MM7	1	0				
-15	15	58	2.0	1/2	1/2	4/4	2	2	VM65	c#	III		VM65	V	M	65					MM7	1	0	5, 2, 6, 1		1	5
-16	16	60	2.0	0	0	4/4	2	2	vi(4)	c#	III		vi(4)	vi			4				m	1	0	3, 2, 4		3	3
-16	16	62	2.0	1/2	1/2	4/4	2	1	VM42	c#	III		VM42	V	M	42					MM7	1	0				
-17	17	64	2.0	0	0	4/4	2	2	bI.vi6	c#	bI		vi6	vi		6					m	1	0	0, 4, 3		3	0
+15	15	56	4.0	0	0	4/4	2	2	bI.i(b13)	c#	bI		i(b13)	i			b13				m	1	0	0, -3, 1	-4	0	0
+16	16	60	2.0	0	0	4/4	2	2	bII(4)	c#	bI		bII(4)	bII			4				M	1	0	-5, 1, -4		-5	-5
+16	16	62	2.0	1/2	1/2	4/4	2	1	i(b13)	c#	bI		i(b13)	i			b13				m	1	0	0, -3, 1	-4	0	0
+17	17	64	2.0	0	0	4/4	2	2	bvi6	c#	bI		bvi6	bvi		6					m	1	0	-7, -3, -4		-4	-7
 17	17	66	2.0	1/2	1/2	4/4	2	2	V(6)	c#	bI		V(6)	V			6				M	1	0	1, 5, 4		1	1
 18	18	68	4.0	0	0	4/4	2	2	I(b10)|IAC}	c#	bI		I(b10)	I			b10		IAC	}	M	1	0	0, 4, 1	-3	0	0
