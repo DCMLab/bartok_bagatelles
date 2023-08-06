@@ -2787,7 +2787,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VM42</name>
+            <name>bI.i(b13)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -2836,10 +2836,6 @@
               <tpc>9</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VM65</name>
-            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -2903,7 +2899,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VM42</name>
+            <name>i(b13)</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -2925,7 +2921,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi(4)</name>
+            <name>bII(4)</name>
             </Harmony>
           <Rest>
             <durationType>half</durationType>
@@ -3085,7 +3081,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bI.vi6</name>
+            <name>bvi6</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
