@@ -67,6 +67,7 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="annotators">AB</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1908</metaTag>
     <metaTag name="composed_start">1908</metaTag>
@@ -80,6 +81,7 @@
     <metaTag name="musicbrainz">https://musicbrainz.org/work/38dfe04b-4f04-4c38-898f-3d461bb30ee3</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="reviewers">JH</metaTag>
     <metaTag name="score_integrity">Amelia Brey</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
@@ -2834,13 +2836,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VM42</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>bI.i(b13)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -2891,11 +2887,6 @@
               <tpc>9</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VM65</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -2960,13 +2951,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VM42</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>i(b13)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -2988,13 +2973,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi(4)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>bII(4)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>half</durationType>
@@ -3159,13 +3138,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bI.vi6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>bvi6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
