@@ -3928,7 +3928,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii(4b2#0)</name>
+            <name>ii(#74b2)</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -6300,7 +6300,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii(4b2#0)</name>
+            <name>ii(#74b2)</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
