@@ -5731,7 +5731,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VM7(b109)/#IV{</name>
+            <name>VM7(b10+9)/#IV{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -6216,7 +6216,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(9)</name>
+            <name>V7(+9)</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
