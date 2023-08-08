@@ -5959,7 +5959,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(9)/#IV</name>
+            <name>V(+9)/#IV</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -6018,7 +6018,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(9)</name>
+            <name>V(+9)</name>
             </Harmony>
           <Rest>
             <durationType>half</durationType>
@@ -6033,7 +6033,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(b139)/#IV</name>
+            <name>V(+b13+9)/#IV</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -6158,7 +6158,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(9)</name>
+            <name>V(+9)</name>
             </Harmony>
           <Rest>
             <durationType>half</durationType>
