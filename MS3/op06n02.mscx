@@ -4828,7 +4828,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii6(13)</name>
+            <name>ii6(+13)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -4997,7 +4997,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43(9)/ii</name>
+            <name>V43(+9)/ii</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -5071,7 +5071,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iM7(13)</name>
+            <name>i6(+14+13)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -5103,7 +5103,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#i6</name>
+            <name>bii6</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -5155,7 +5155,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iM7(13)</name>
+            <name>i6(+14+13)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -5187,7 +5187,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#i6</name>
+            <name>bii6</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -5232,7 +5232,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iM7(13)</name>
+            <name>i6(+14+13)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -5270,7 +5270,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#i6</name>
+            <name>bii6</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
