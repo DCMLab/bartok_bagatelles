@@ -1671,7 +1671,6 @@
               </Spanner>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>61</pitch>
               <tpc>21</tpc>
               </Note>
@@ -1688,7 +1687,6 @@
                 </prev>
               </Spanner>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <color r="255" g="0" b="0" a="255"/>
               <pitch>66</pitch>
               <tpc>20</tpc>
@@ -1709,7 +1707,6 @@
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <color r="255" g="0" b="0" a="255"/>
               <pitch>68</pitch>
               <tpc>22</tpc>
@@ -3138,7 +3135,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bvi6</name>
+            <name>vi6</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
