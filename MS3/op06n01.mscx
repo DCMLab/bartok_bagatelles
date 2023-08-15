@@ -2790,7 +2790,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bI.i(b13)</name>
+            <name>bI.i</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
