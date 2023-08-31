@@ -14,7 +14,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	offset_x	offset_y	offset	alt_l
 4	4	0	0	2/2	2	1	I(b9)/vi					F	I		I(b9)/vi		I			b9	vi			M	0	0	2, 6, 3	-3	2	2	0	4	0.0	0.0	0.875	0.0
 4	4	1/8	1/8	2/2	2	1	#viio7(#1)/iii				#vii%2(b14)/v	F	I		#viio7(#1)/iii		#vii	o	7	#1	iii			o7	0	0	8, 5, 2, -1		8	8	2	2	0.5	0.375	0.25	0.6
 4	4	3/8	3/8	2/2	2	1	iv7(9)				IV7(9)	F	I		iv7(9)		iv		7	9				mm7	0	0	-2, -5, -1, -4	0	-2	-2	0	4	0.0	0.0	0.5	0.0
-4	4	1/2	1/2	2/2	2	1	#vii%42/vi					F	I		#vii%42/vi		#vii	%	42		vi			%7	0	0					4	0	1.0	0.875	0.0	1.0
+4	4	1/2	1/2	2/2	2	1	#vii%2/vi					F	I		#vii%2/vi		#vii	%	2		vi			%7	0	0	5, 7, 4, 1		7	5	0	4	0.0	0.0	0.875	0.0
 4	4	5/8	5/8	2/2	2	1	#viio7(#0)/ii					F	I		#viio7(#0)/ii		#vii	o	7	#0	ii			o7	0	0	6, 3, 0, -3		6	6	1	3	0.25	0.25	0.375	0.4
 4	4	7/8	7/8	2/2	2	1	#viio7(9)/ii					F	I		#viio7(9)/ii		#vii	o	7	9	ii			o7	0	0	6, 3, 0, -3	1	6	6	0	4	0.0	0.0	0.5	0.0
 5	5	0	0	2/2	2	1	I(b9)/ii|IAC}					F	I		I(b9)/ii		I			b9	ii	IAC	}	M	0	0	1, 5, 2	-4	1	1	0	4	0.0	0.0	1.0	0.0

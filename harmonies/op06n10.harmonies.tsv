@@ -14,7 +14,7 @@ mc	mn	quarterbeats	duration_qb	mc_onset	mn_onset	timesig	staff	voice	label	alt_l
 4	4	12	0.5	0	0	2/2	2	1	I(b9)/vi		F	I		I(b9)/vi		I			b9	vi			M	0	0	3, 7, 4	-2	3	3
 4	4	25/2	1.0	1/8	1/8	2/2	2	1	#viio7(#1)/iii	#vii%2(b14)/v	F	I		#viio7(#1)/iii		#vii	o	7	#1	iii			o7	0	0	9, 6, 3, 0		9	9
 4	4	27/2	0.5	3/8	3/8	2/2	2	1	iv7(9)	IV7(9)	F	I		iv7(9)		iv		7	9				mm7	0	0	-1, -4, 0, -3	1	-1	-1
-4	4	14	0.5	1/2	1/2	2/2	2	1	#vii%42/vi		F	I		#vii%42/vi		#vii	%	42		vi			%7	0	0				
+4	4	14	0.5	1/2	1/2	2/2	2	1	#vii%2/vi		F	I		#vii%2/vi		#vii	%	2		vi			%7	0	0	6, 8, 5, 2		8	6
 4	4	29/2	1.0	5/8	5/8	2/2	2	1	#viio7(#0)/ii		F	I		#viio7(#0)/ii		#vii	o	7	#0	ii			o7	0	0	7, 4, 1, -2		7	7
 4	4	31/2	0.5	7/8	7/8	2/2	2	1	#viio7(9)/ii		F	I		#viio7(9)/ii		#vii	o	7	9	ii			o7	0	0	7, 4, 1, -2	2	7	7
 5	5	16	2.0	0	0	2/2	2	1	I(b9)/ii|IAC}		F	I		I(b9)/ii		I			b9	ii	IAC	}	M	0	0	2, 6, 3	-3	2	2
