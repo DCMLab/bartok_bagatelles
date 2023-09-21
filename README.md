@@ -21,4 +21,4 @@ N.B. Data extraction will display warnings in nos. 9 and 12 due to deliberately 
 |op06n14  |     218|   199|2.3.0   |Amelia Brey|DK          |
 
 
-*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
+*Overview table automatically updated using [ms3](https://ms3.readthedocs.io/).*
