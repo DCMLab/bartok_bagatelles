@@ -234,7 +234,15 @@
         <height>3.5</height>
         <Text>
           <style>Title</style>
-          <text><font size="24"></font>1.</text>
+          <text>1. Molto sostenuto</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: 14 Bagatelles, Op. 6, Sz.38, BB 50</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Béla Bartók</text>
           </Text>
         </VBox>
       <Measure>
