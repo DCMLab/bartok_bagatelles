@@ -67,9 +67,11 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q83326</metaTag>
     <metaTag name="annotators">AB</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1908</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/14_Bagatelles</metaTag>
     <metaTag name="composed_start">1908</metaTag>
     <metaTag name="composer">Bela Bartok</metaTag>
     <metaTag name="copyright">©</metaTag>
@@ -88,8 +90,8 @@
     <metaTag name="typesetter">Tatyana Tuchynska</metaTag>
     <metaTag name="viaf">https://viaf.org/viaf/183691259/#Barto%CC%81k,_Be%CC%81la,_1881-1945._|_Bagatelles,_piano,_op._6</metaTag>
     <metaTag name="wikidata">https://www.wikidata.org/wiki/Q790972</metaTag>
-    <metaTag name="workNumber">op. 6</metaTag>
-    <metaTag name="workTitle">Bagatelles</metaTag>
+    <metaTag name="workNumber">Op. 6, Sz.38, BB 50</metaTag>
+    <metaTag name="workTitle">14 Bagatelles</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
