@@ -109,9 +109,9 @@
         </Staff>
       <trackName>Piano</trackName>
       <Instrument id="piano">
-        <longName>Фортепіано</longName>
+        <longName>Piano</longName>
         <shortName>Pno.</shortName>
-        <trackName>Фортепіано</trackName>
+        <trackName>Piano</trackName>
         <minPitchP>21</minPitchP>
         <maxPitchP>108</maxPitchP>
         <minPitchA>21</minPitchA>
@@ -160,10 +160,6 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <program value="0"/>
-          <synti>Fluid</synti>
-          </Channel>
-        <Channel name="harmony">
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>

@@ -101,9 +101,9 @@
         <bracket type="1" span="2" col="0"/>
         <barLineSpan>1</barLineSpan>
         </Staff>
-      <trackName>MusicXML Part</trackName>
+      <trackName>Piano</trackName>
       <Instrument id="piano">
-        <trackName>ARIA Player</trackName>
+        <trackName>Piano</trackName>
         <minPitchP>21</minPitchP>
         <maxPitchP>108</maxPitchP>
         <minPitchA>21</minPitchA>
@@ -157,6 +157,8 @@
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
           </Channel>
+        <longName>Piano</longName>
+        <shortName>Pno.</shortName>
         </Instrument>
       </Part>
     <Part>
@@ -165,9 +167,9 @@
           <name>stdNormal</name>
           </StaffType>
         </Staff>
-      <trackName>MusicXML Part</trackName>
+      <trackName>Piano</trackName>
       <Instrument id="piano">
-        <trackName>ARIA Player</trackName>
+        <trackName>Piano</trackName>
         <minPitchP>21</minPitchP>
         <maxPitchP>108</maxPitchP>
         <minPitchA>21</minPitchA>
@@ -221,12 +223,8 @@
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
           </Channel>
-        <Channel name="harmony">
-          <program value="0"/>
-          <controller ctrl="7" value="101"/>
-          <controller ctrl="10" value="63"/>
-          <synti>Fluid</synti>
-          </Channel>
+        <longName>Piano</longName>
+        <shortName>Pno.</shortName>
         </Instrument>
       </Part>
     <Staff id="1">
