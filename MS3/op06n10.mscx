@@ -84,8 +84,8 @@
     <metaTag name="musicbrainz">https://musicbrainz.org/work/38dfe04b-4f04-4c38-898f-3d461bb30ee3</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">Hanné Becker</metaTag>
-    <metaTag name="score_integrity">Amelia Brey</metaTag>
+    <metaTag name="reviewers">HB</metaTag>
+    <metaTag name="score_integrity">https://orcid.org/0000-0002-6329-7492</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="typesetter">Tatyana Tuchynska</metaTag>
