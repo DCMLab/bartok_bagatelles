@@ -14,10 +14,9 @@ For information on how to obtain and use the dataset, please refer to [this docu
 
 # Béla Bartók – 14 Bagatelles, Op. 6
 
+The Bagatelles of Op. 6 (1908) constitute some of Bartók's earliest explorations with the techniques that would come to define his output. Namely, they evoke the Hungarian folk melodies whose study Bartók had recently undertaken (particularly in evidence in nos. 4 and 5), and utilize innovative means of destabilizing the tonal centre. For this latter reason, the annotations in this repository reflect some of the most extreme extensions of the DCML standard yet. Note, in particular, the extensive use of secondary functions to #IV, which theorist Ernő Lendvai has proposed as a surrogate tonic function in Bartók's language. 
+
 N.B. Data extraction will display warnings in nos. 9 and 12 due to deliberately unmetered material.
-
-
-## Cite as
 
 ## Version history
 
