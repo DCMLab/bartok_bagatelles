@@ -67,11 +67,13 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q83326</metaTag>
     <metaTag name="annotators">Amelia Brey</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1908</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/14_Bagatelles</metaTag>
     <metaTag name="composed_start">1908</metaTag>
-    <metaTag name="composer">Bela Bartok</metaTag>
+    <metaTag name="composer">Béla Bartók</metaTag>
     <metaTag name="copyright">©</metaTag>
     <metaTag name="creationDate">2022-08-05</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
@@ -83,14 +85,14 @@
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">DK</metaTag>
-    <metaTag name="score_integrity">Amelia Brey</metaTag>
+    <metaTag name="score_integrity">https://orcid.org/0000-0002-6329-7492</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="typesetter">Tatyana Tuchynska</metaTag>
     <metaTag name="viaf">https://viaf.org/viaf/183691259/#Barto%CC%81k,_Be%CC%81la,_1881-1945._|_Bagatelles,_piano,_op._6</metaTag>
     <metaTag name="wikidata">https://www.wikidata.org/wiki/Q790972</metaTag>
-    <metaTag name="workNumber">op. 6</metaTag>
-    <metaTag name="workTitle">Bagatelles</metaTag>
+    <metaTag name="workNumber">Op. 6, Sz.38, BB 50</metaTag>
+    <metaTag name="workTitle">14 Bagatelles</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -107,7 +109,7 @@
       <trackName>Piano</trackName>
       <Instrument id="piano">
         <longName>Piano</longName>
-        <trackName>ARIA Player</trackName>
+        <trackName>Piano</trackName>
         <minPitchP>21</minPitchP>
         <maxPitchP>108</maxPitchP>
         <minPitchA>21</minPitchA>
@@ -161,12 +163,7 @@
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
           </Channel>
-        <Channel name="harmony">
-          <program value="0"/>
-          <controller ctrl="7" value="101"/>
-          <controller ctrl="10" value="63"/>
-          <synti>Fluid</synti>
-          </Channel>
+        <shortName>Pno.</shortName>
         </Instrument>
       </Part>
     <Staff id="1">
@@ -174,7 +171,15 @@
         <height>3.5</height>
         <Text>
           <style>Title</style>
-          <text><font size="24"></font>8.</text>
+          <text>8. Andante sostenuto</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: 14 Bagatelles, Op. 6, Sz.38, BB 50</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Béla Bartók</text>
           </Text>
         </VBox>
       <Measure>
