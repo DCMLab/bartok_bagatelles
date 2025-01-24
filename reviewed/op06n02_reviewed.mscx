@@ -70,6 +70,7 @@
     <metaTag name="P86 (composer)">Q83326</metaTag>
     <metaTag name="annotators">Amelia Brey</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1908</metaTag>
     <metaTag name="composed_source">https://en.wikipedia.org/wiki/14_Bagatelles</metaTag>
     <metaTag name="composed_start">1908</metaTag>
@@ -6250,7 +6251,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>VM2(b109)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>VM42(b109)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>

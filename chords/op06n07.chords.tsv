@@ -1,0 +1,796 @@
+mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	timesig	staff	voice	duration	gracenote	nominal_duration	scalar	chord_id	dynamics	articulation	staff_text	tempo	qpm	metronome_base	metronome_number	tempo_visible	slur	decrescendo_hairpin	crescendo_hairpin	TextLine	Ottava:8va
+1	1	0	0	0.0	0	0	Tempo	3/4	1	1	0								𝅘𝅥=70	70.0	𝅘𝅥	70.0	1.0					
+1	1	0	0	0.0	0	0	Tempo	3/4	1	1	0								Allegrettomoltocapriccioso	116.0			1.0					
+1	1	0	0	0.0	0	0	Dynamic	3/4	2	1	0					mf												
+1	1	0	0	0.125	0	0	Chord	3/4	2	1	1/32		1/32	1	0									0				
+1	1	1/8	1/8	0.0	1/32	1/32	Spanner	3/4	2	1	0															0		
+1	1	1/8	1/8	0.125	1/32	1/32	Chord	3/4	2	1	1/32		1/32	1	1											0		
+1	1	1/4	1/4	0.125	1/16	1/16	Chord	3/4	2	1	1/32		1/32	1	2									1		0		
+1	1	3/8	3/8	0.125	3/32	3/32	Chord	3/4	2	1	1/32		1/32	1	3											0		
+1	1	1/2	1/2	0.0	1/8	1/8	Dynamic	3/4	2	1	0					f												
+1	1	1/2	1/2	0.0	1/8	1/8	Spanner	3/4	2	1	0																	
+1	1	1/2	1/2	0.5	1/8	1/8	Chord	3/4	2	1	1/8		1/8	1	4									2				
+1	1	1	1	1.0	1/4	1/4	Chord	3/4	2	1	1/4		1/4	1	5									2				
+1	1	2	2	0.75	1/2	1/2	Chord	3/4	2	1	3/16		1/8	3/2	6									2				
+1	1	11/4	11/4	0.125	11/16	11/16	Chord	3/4	2	1	1/32		1/32	1	7									2				
+1	1	23/8	23/8	0.125	23/32	23/32	Chord	3/4	2	1	1/32		1/32	1	8													
+2	2	3	3	0.0	0	0	StaffText	3/4	1	1	0							<i>ritard.</i>										
+2	2	3	3	0.0	0	0	Spanner	3/4	2	1	0														0			
+2	2	3	3	0.875	0	0	Chord	3/4	2	1	7/32		1/8	7/4	9									3	0			
+2	2	31/8	31/8	0.125	7/32	7/32	Chord	3/4	2	1	1/32		1/32	1	10										0			
+2	2	4	4	0.875	1/4	1/4	Chord	3/4	2	1	7/32		1/8	7/4	11									4	0			
+2	2	39/8	39/8	0.125	15/32	15/32	Chord	3/4	2	1	1/32		1/32	1	12										0			
+2	2	5	5	0.875	1/2	1/2	Chord	3/4	2	1	7/32		1/8	7/4	13									5	0			
+2	2	47/8	47/8	0.0	23/32	23/32	Dynamic	3/4	2	1	0					pp												
+2	2	47/8	47/8	0.0	23/32	23/32	Spanner	3/4	2	1	0																	
+2	2	47/8	47/8	0.125	23/32	23/32	Chord	3/4	2	1	1/32		1/32	1	14													
+3	3	31/4	31/4	0.0	7/16	7/16	Dynamic	2/4	1	1	0					pp												
+3	3	31/4	31/4	0.125	7/16	7/16	Chord	2/4	1	1	1/32		1/32	1	15													
+3	3	63/8	63/8	0.125	15/32	15/32	Chord	2/4	1	1	1/32		1/32	1	16													
+3	3	31/4	31/4	0.125	7/16	7/16	Chord	2/4	1	2	1/32		1/32	1	17													
+4	4	8	8	0.0	0	0	Tempo	2/4	1	1	0								𝅘𝅥=45	45.0	𝅘𝅥	45.0	1.0					
+4	4	8	8	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	18		articStaccatoBelow											
+4	4	17/2	17/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	19		articStaccatoBelow											
+4	4	9	9	0.0	1/4	1/4	StaffText	2/4	1	1	0							<i>accel.</i>										
+4	4	9	9	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	20		articStaccatoBelow											
+4	4	19/2	19/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	21		articStaccatoBelow											
+4	4	8	8	0.0	0	0	Dynamic	2/4	2	1	0					p												
+4	4	8	8	0.0	0	0	Spanner	2/4	2	1	0														1			
+4	4	8	8	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	22		articStaccatoAbove							6	1			
+4	4	17/2	17/2	0.5	1/8	1/8	Chord	2/4	2	1	1/8		1/8	1	23		articStaccatoAbove							6	1			
+4	4	9	9	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	24		articStaccatoAbove							6	1			
+4	4	19/2	19/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	25		articStaccatoAbove							6	1			
+5	5	10	10	0.0	0	0	Tempo	2/4	1	1	0								𝅘𝅥=70	70.0	𝅘𝅥	70.0	1.0					
+5	5	10	10	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	26		articStaccatoBelow											
+5	5	21/2	21/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	27		articStaccatoBelow											
+5	5	11	11	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	28		articStaccatoBelow											
+5	5	23/2	23/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	29		articStaccatoBelow											
+5	5	10	10	0.0	0	0	Spanner	2/4	2	1	0													6				
+5	5	10	10	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	30		articMarcatoAbove							6				
+6	6	12	12	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	31		articStaccatoBelow											
+6	6	25/2	25/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	32		articStaccatoBelow											
+6	6	13	13	0.0	1/4	1/4	StaffText	2/4	1	1	0							<i>rit.</i>										
+6	6	13	13	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	33		articStaccatoBelow											
+6	6	27/2	27/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	34		articStaccatoBelow											
+6	6	12	12	1.75	0	0	Chord	2/4	2	1	7/16		1/4	7/4	35													
+6	6	55/4	55/4	0.0	7/16	7/16	Dynamic	2/4	2	1	0					pp												
+6	6	55/4	55/4	0.08333333333333333	7/16	7/16	Chord	2/4	2	1	1/48		1/32	2/3	36									7				
+6	6	83/6	83/6	0.08333333333333333	11/24	11/24	Chord	2/4	2	1	1/48		1/32	2/3	37									7				
+6	6	167/12	167/12	0.08333333333333333	23/48	23/48	Chord	2/4	2	1	1/48		1/32	2/3	38													
+7	7	14	14	0.0	0	0	Tempo	2/4	1	1	0								𝅘𝅥=45	45.0	𝅘𝅥	45.0	1.0					
+7	7	14	14	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	39		articStaccatoBelow											
+7	7	29/2	29/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	40		articStaccatoBelow											
+7	7	15	15	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	41		articStaccatoBelow											
+7	7	31/2	31/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	42		articStaccatoBelow											
+7	7	14	14	0.0	0	0	Dynamic	2/4	2	1	0					p												
+7	7	14	14	0.0	0	0	Spanner	2/4	2	1	0														2			
+7	7	14	14	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	43		articStaccatoAbove							8	2			
+7	7	29/2	29/2	0.5	1/8	1/8	Chord	2/4	2	1	1/8		1/8	1	44		articStaccatoAbove							8	2			
+7	7	15	15	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	45		articStaccatoAbove							8	2			
+7	7	31/2	31/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	46		articStaccatoAbove								2			
+8	8	16	16	0.0	0	0	Tempo	2/4	1	1	0								𝅘𝅥=80	80.0	𝅘𝅥	80.0	1.0					
+8	8	16	16	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	47		articStaccatoBelow											
+8	8	33/2	33/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	48		articStaccatoBelow											
+8	8	17	17	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	49		articStaccatoBelow											
+8	8	35/2	35/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	50		articStaccatoBelow											
+8	8	16	16	0.0	0	0	Spanner	2/4	2	1	0																	
+8	8	16	16	0.0	0	0	Spanner	2/4	2	1	0															1		
+8	8	16	16	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	51		articMarcatoAbove							9		1		
+9	9	18	18	0.0	0	0	StaffText	2/4	1	1	0							<i>accel.</i>										
+9	9	18	18	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	52		articStaccatoBelow											
+9	9	37/2	37/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	53		articStaccatoBelow											
+9	9	19	19	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	54		articStaccatoBelow											
+9	9	39/2	39/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	55		articStaccatoBelow											
+9	9	18	18	0.0	0	0	Spanner	2/4	2	1	0													9				
+9	9	18	18	1.0	0	0	Chord	2/4	2	1	1/4		1/4	1	56									9				
+9	9	19	19	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	57									9				
+9	9	39/2	39/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	58									9				
+10	10	20	20	0.0	0	0	Tempo	2/4	1	1	0								𝅘𝅥=140	140.0	𝅘𝅥	140.0	1.0					
+10	10	20	20	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	59		articStaccatoBelow											
+10	10	41/2	41/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	60		articStaccatoBelow											
+10	10	21	21	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	61		articStaccatoBelow											
+10	10	43/2	43/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	62		articStaccatoBelow											
+10	10	20	20	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	63		articStaccatoBelow							9				
+10	10	41/2	41/2	0.5	1/8	1/8	Chord	2/4	2	1	1/8		1/8	1	64		articStaccatoBelow											
+10	10	21	21	0.0	1/4	1/4	Dynamic	2/4	2	1	0					sf												
+10	10	21	21	1.0	1/4	1/4	Chord	2/4	2	1	1/4		1/4	1	65									10				
+11	11	22	22	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	66		articStaccatoBelow											
+11	11	45/2	45/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	67		articStaccatoBelow											
+11	11	23	23	0.0	1/4	1/4	StaffText	2/4	1	1	0							<i>poco accel.</i>										
+11	11	23	23	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	68		articStaccatoBelow											
+11	11	47/2	47/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	69		articStaccatoBelow											
+11	11	22	22	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	70									10				
+12	12	24	24	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	71		articStaccatoBelow											
+12	12	49/2	49/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	72		articStaccatoBelow											
+12	12	25	25	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	73		articStaccatoBelow											
+12	12	51/2	51/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	74		articStaccatoBelow											
+12	12	24	24	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	75									10				
+13	13	26	26	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	76		articStaccatoBelow											
+13	13	53/2	53/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	77		articStaccatoBelow											
+13	13	27	27	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	78		articStaccatoBelow											
+13	13	55/2	55/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	79		articStaccatoBelow											
+13	13	26	26	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	80									10				
+14	14	28	28	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	81		articStaccatoBelow											
+14	14	57/2	57/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	82		articStaccatoBelow											
+14	14	29	29	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	83		articStaccatoBelow											
+14	14	59/2	59/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	84		articStaccatoBelow											
+14	14	28	28	1.5	0	0	Chord	2/4	2	1	3/8		1/4	3/2	85									10				
+14	14	59/2	59/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	86													
+15	15	30	30	0.0	0	0	Tempo	2/4	1	1	0								𝅘𝅥=140	140.0	𝅘𝅥	140.0	1.0					
+15	15	30	30	0.0	0	0	Dynamic	2/4	1	1	0					mp												
+15	15	30	30	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	87		articStaccatoBelow											
+15	15	61/2	61/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	88		articStaccatoBelow											
+15	15	31	31	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	89		articStaccatoBelow											
+15	15	63/2	63/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	90		articStaccatoBelow											
+15	15	30	30	0.0	0	0	Dynamic	2/4	2	1	0					mf												
+15	15	30	30	1.5	0	0	Chord	2/4	2	1	3/8		1/4	3/2	91									11				
+15	15	63/2	63/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	92													
+16	16	32	32	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	93		articStaccatoBelow											
+16	16	65/2	65/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	94		articStaccatoBelow											
+16	16	33	33	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	95		articStaccatoBelow											
+16	16	67/2	67/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	96		articStaccatoBelow											
+16	16	32	32	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	97		articStaccatoBelow											
+16	16	65/2	65/2	0.5	1/8	1/8	Chord	2/4	2	1	1/8		1/8	1	98		articStaccatoBelow											
+16	16	33	33	1.0	1/4	1/4	Chord	2/4	2	1	1/4		1/4	1	99									12				
+17	17	34	34	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	100		articStaccatoBelow											
+17	17	69/2	69/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	101		articStaccatoBelow											
+17	17	35	35	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	102		articStaccatoBelow											
+17	17	71/2	71/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	103		articStaccatoBelow											
+17	17	34	34	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	104									12				
+17	17	69/2	69/2	0.5	1/8	1/8	Chord	2/4	2	1	1/8		1/8	1	105													
+17	17	35	35	1.0	1/4	1/4	Chord	2/4	2	1	1/4		1/4	1	106									13				
+18	18	36	36	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	107		articStaccatoBelow											
+18	18	73/2	73/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	108		articStaccatoBelow											
+18	18	37	37	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	109		articStaccatoBelow											
+18	18	75/2	75/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	110		articStaccatoBelow											
+18	18	36	36	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	111									13				
+18	18	73/2	73/2	0.5	1/8	1/8	Chord	2/4	2	1	1/8		1/8	1	112													
+18	18	37	37	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	113		articStaccatoAbove											
+18	18	75/2	75/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	114									14				
+19	19	38	38	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	115		articStaccatoBelow											
+19	19	77/2	77/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	116		articStaccatoBelow											
+19	19	39	39	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	117		articStaccatoBelow											
+19	19	79/2	79/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	118		articStaccatoBelow											
+19	19	38	38	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	119									14				
+19	19	77/2	77/2	0.5	1/8	1/8	Chord	2/4	2	1	1/8		1/8	1	120													
+19	19	39	39	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	121		articStaccatoAbove											
+19	19	79/2	79/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	122									15				
+20	20	40	40	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	123		articStaccatoBelow											
+20	20	81/2	81/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	124		articStaccatoBelow											
+20	20	41	41	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	125		articStaccatoBelow											
+20	20	83/2	83/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	126		articStaccatoBelow											
+20	20	40	40	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	127									15				
+20	20	81/2	81/2	0.5	1/8	1/8	Chord	2/4	2	1	1/8		1/8	1	128													
+20	20	41	41	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	129		articStaccatoAbove											
+20	20	83/2	83/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	130									16				
+21	21	42	42	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	131		articStaccatoBelow											
+21	21	85/2	85/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	132		articStaccatoBelow											
+21	21	43	43	0.0	1/4	1/4	StaffText	2/4	1	1	0							<i>poco cresc.</i>										
+21	21	43	43	0.0	1/4	1/4	Spanner	2/4	1	1	0															2		
+21	21	43	43	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	133		articStaccatoBelow									2		
+21	21	87/2	87/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	134		articStaccatoBelow									2		
+21	21	42	42	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	135									16				
+21	21	85/2	85/2	0.5	1/8	1/8	Chord	2/4	2	1	1/8		1/8	1	136													
+21	21	43	43	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	137		articStaccatoAbove											
+21	21	87/2	87/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	138		articStaccatoAbove											
+22	22	44	44	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	139		articStaccatoBelow									2		
+22	22	89/2	89/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	140		articStaccatoBelow									2		
+22	22	45	45	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	141		articStaccatoBelow									2		
+22	22	91/2	91/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	142		articStaccatoBelow									2		
+22	22	44	44	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	143		articStaccatoAbove											
+22	22	89/2	89/2	0.5	1/8	1/8	Chord	2/4	2	1	1/8		1/8	1	144		articStaccatoAbove											
+22	22	45	45	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	145		articStaccatoAbove											
+22	22	91/2	91/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	146		articStaccatoAbove											
+23	23	46	46	0.0	0	0	Spanner	2/4	1	1	0																	
+23	23	46	46	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	147		articStaccatoBelow											
+23	23	93/2	93/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	148		articStaccatoBelow											
+23	23	47	47	0.0	1/4	1/4	StaffText	2/4	1	1	0							<i>rit.</i>										
+23	23	47	47	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	149		articStaccatoBelow											
+23	23	95/2	95/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	150		articStaccatoBelow											
+23	23	46	46	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	151													
+23	23	93/2	93/2	0.5	1/8	1/8	Chord	2/4	2	1	1/8		1/8	1	152													
+23	23	47	47	0.3333333333333333	1/4	1/4	Chord	2/4	2	1	1/12		1/8	2/3	153													
+23	23	142/3	142/3	0.3333333333333333	1/3	1/3	Chord	2/4	2	1	1/12		1/8	2/3	154													
+23	23	143/3	143/3	0.3333333333333333	5/12	5/12	Chord	2/4	2	1	1/12		1/8	2/3	155													
+24	24	48	48	0.0	0	0	Tempo	2/4	1	1	0								𝅘𝅥=120	120.0	𝅘𝅥	120.0	1.0					
+24	24	48	48	0.0	0	0	StaffText	2/4	1	1	0							<i>dim.</i>										
+24	24	48	48	0.0	0	0	Spanner	2/4	1	1	0														3			
+24	24	48	48	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	156		articStaccatoBelow								3			
+24	24	97/2	97/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	157		articStaccatoBelow								3			
+24	24	49	49	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	158		articStaccatoBelow								3			
+24	24	99/2	99/2	0.0	3/8	3/8	StaffText	2/4	1	1	0							<i>rit.</i>										
+24	24	99/2	99/2	0.0	3/8	3/8	Spanner	2/4	1	1	0																	
+24	24	99/2	99/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	159		articStaccatoBelow											
+24	24	48	48	1.0	0	0	Chord	2/4	2	1	1/4		1/4	1	160		articTenutoAbove											
+24	24	49	49	1.0	1/4	1/4	Chord	2/4	2	1	1/4		1/4	1	161		articTenutoBelow											
+25	25	50	50	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	162		articStaccatoBelow											
+25	25	101/2	101/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	163		articStaccatoBelow											
+25	25	51	51	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	164		articStaccatoBelow											
+25	25	103/2	103/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	165		articStaccatoBelow											
+25	25	50	50	1.0	0	0	Chord	2/4	2	1	1/4		1/4	1	166		articTenutoBelow											
+25	25	51	51	1.0	1/4	1/4	Chord	2/4	2	1	1/4		1/4	1	167		articTenutoBelow											
+26	26	52	52	0.0	0	0	Tempo	2/4	1	1	0								𝅘𝅥=100	100.0	𝅘𝅥	100.0	1.0					
+26	26	52	52	0.0	0	0	Dynamic	2/4	1	1	0					pp												
+26	26	52	52	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	168		articStaccatoBelow											
+26	26	105/2	105/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	169		articStaccatoBelow											
+26	26	53	53	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	170		articStaccatoBelow											
+26	26	107/2	107/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	171		articStaccatoBelow											
+26	26	52	52	0.0	0	0	Dynamic	2/4	2	1	0					p												
+26	26	52	52	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	172		articMarcatoAbove							17				
+27	27	54	54	0.0	0	0	StaffText	2/4	1	1	0							<i>poco rit.</i>										
+27	27	54	54	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	173		articStaccatoBelow											
+27	27	109/2	109/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	174		articStaccatoBelow											
+27	27	55	55	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	175		articStaccatoBelow											
+27	27	111/2	111/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	176		articStaccatoBelow											
+27	27	54	54	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	177									17				
+28	28	56	56	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	178		articStaccatoBelow											
+28	28	113/2	113/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	179		articStaccatoBelow											
+28	28	57	57	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	180		articStaccatoBelow											
+28	28	115/2	115/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	181		articStaccatoBelow											
+28	28	56	56	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	182									17				
+29	29	58	58	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	183		articStaccatoBelow											
+29	29	117/2	117/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	184		articStaccatoBelow											
+29	29	59	59	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	185		articStaccatoBelow											
+29	29	119/2	119/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	186		articStaccatoBelow											
+29	29	58	58	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	187													
+30	30	60	60	0.0	0	0	StaffText	2/4	1	1	0							<i> rit. molto</i>										
+30	30	60	60	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	188		articStaccatoBelow											
+30	30	121/2	121/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	189		articStaccatoBelow											
+30	30	61	61	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	190		articStaccatoBelow											
+30	30	123/2	123/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	191		articStaccatoBelow											
+30	30	60	60	0.0	0	0	Spanner	2/4	2	1	0															3		
+30	30	60	60	1.0	0	0	Chord	2/4	2	1	1/4		1/4	1	192									18		3		
+30	30	61	61	0.2	1/4	1/4	Chord	2/4	2	1	1/20		1/16	4/5	193									18		3		
+30	30	306/5	306/5	0.2	3/10	3/10	Chord	2/4	2	1	1/20		1/16	4/5	194									18		3		
+30	30	307/5	307/5	0.2	7/20	7/20	Chord	2/4	2	1	1/20		1/16	4/5	195									18		3		
+30	30	308/5	308/5	0.2	2/5	2/5	Chord	2/4	2	1	1/20		1/16	4/5	196									18		3		
+30	30	309/5	309/5	0.2	9/20	9/20	Chord	2/4	2	1	1/20		1/16	4/5	197									18		3		
+31	31	62	62	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	198		articStaccatoBelow											
+31	31	125/2	125/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	199		articStaccatoBelow											
+31	31	63	63	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	200		articStaccatoBelow											
+31	31	127/2	127/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	201		articStaccatoBelow											
+31	31	62	62	0.0	0	0	Spanner	2/4	2	1	0													18				
+31	31	62	62	1.0	0	0	Chord	2/4	2	1	1/4		1/4	1	202									18				
+31	31	63	63	1.0	1/4	1/4	Chord	2/4	2	1	1/4		1/4	1	203													
+32	32	64	64	0.0	0	0	Tempo	2/4	1	1	0								𝅘𝅥=120	120.0	𝅘𝅥	120.0	1.0					
+32	32	64	64	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	204		articStaccatoBelow											
+32	32	129/2	129/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	205		articStaccatoBelow											
+32	32	65	65	0.0	1/4	1/4	StaffText	2/4	1	1	0							<i>rit.</i>										
+32	32	65	65	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	206		articStaccatoBelow											
+32	32	131/2	131/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	207		articStaccatoBelow											
+32	32	64	64	0.0	0	0	Dynamic	2/4	2	1	0					pp												
+32	32	64	64	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	208									19				
+33	33	66	66	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	209		articStaccatoBelow											
+33	33	133/2	133/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	210		articStaccatoBelow											
+33	33	67	67	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	211		articStaccatoBelow											
+33	33	135/2	135/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	212		articStaccatoBelow											
+33	33	66	66	1.0	0	0	Chord	2/4	2	1	1/4		1/4	1	213									19				
+33	33	67	67	1.0	1/4	1/4	Chord	2/4	2	1	1/4		1/4	1	214													
+34	34	68	68	0.0	0	0	Tempo	2/4	1	1	0								𝅘𝅥=180	180.0	𝅘𝅥	180.0	1.0					
+34	34	68	68	0.0	0	0	Dynamic	2/4	1	1	0					p												
+34	34	68	68	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	215		articStaccatoBelow											
+34	34	137/2	137/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	216		articStaccatoBelow											
+34	34	69	69	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	217		articStaccatoBelow											
+34	34	139/2	139/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	218		articStaccatoBelow											
+34	34	68	68	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	219		articAccentAbove											
+34	34	137/2	137/2	1.0	1/8	1/8	Chord	2/4	2	1	1/4		1/4	1	220		articTenutoAbove											
+34	34	139/2	139/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	221		articStaccatoAbove											
+35	35	70	70	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	222		articStaccatoBelow											
+35	35	141/2	141/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	223		articStaccatoBelow											
+35	35	71	71	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	224		articStaccatoBelow											
+35	35	143/2	143/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	225		articStaccatoBelow											
+35	35	70	70	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	226		articAccentAbove											
+35	35	141/2	141/2	1.0	1/8	1/8	Chord	2/4	2	1	1/4		1/4	1	227		articTenutoAbove											
+35	35	143/2	143/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	228		articStaccatoAbove											
+36	36	72	72	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	229		articStaccatoBelow											
+36	36	145/2	145/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	230		articStaccatoBelow											
+36	36	73	73	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	231		articStaccatoBelow											
+36	36	147/2	147/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	232		articStaccatoBelow											
+36	36	72	72	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	233		articAccentAbove											
+36	36	145/2	145/2	1.0	1/8	1/8	Chord	2/4	2	1	1/4		1/4	1	234		articTenutoAbove											
+36	36	147/2	147/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	235		articStaccatoAbove											
+37	37	74	74	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	236		articStaccatoBelow											
+37	37	149/2	149/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	237		articStaccatoBelow											
+37	37	75	75	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	238		articStaccatoBelow											
+37	37	151/2	151/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	239		articStaccatoBelow											
+37	37	74	74	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	240		articAccentAbove											
+37	37	149/2	149/2	1.0	1/8	1/8	Chord	2/4	2	1	1/4		1/4	1	241		articTenutoAbove											
+37	37	151/2	151/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	242		articStaccatoAbove											
+38	38	76	76	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	243		articStaccatoBelow											
+38	38	153/2	153/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	244		articStaccatoBelow											
+38	38	77	77	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	245		articStaccatoBelow											
+38	38	155/2	155/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	246		articStaccatoBelow											
+38	38	76	76	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	247		articAccentAbove											
+38	38	153/2	153/2	1.0	1/8	1/8	Chord	2/4	2	1	1/4		1/4	1	248		articTenutoAbove											
+38	38	155/2	155/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	249		articStaccatoAbove											
+39	39	78	78	0.0	0	0	Tempo	2/4	1	1	0								𝅘𝅥=120	120.0	𝅘𝅥	120.0	1.0					
+39	39	78	78	0.0	0	0	Spanner	2/4	1	1	0															4		
+39	39	78	78	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	250		articStaccatoBelow									4		
+39	39	157/2	157/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	251		articStaccatoBelow									4		
+39	39	79	79	0.0	1/4	1/4	StaffText	2/4	1	1	0							<i>rit.</i>								4		
+39	39	79	79	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	252		articStaccatoBelow									4		
+39	39	159/2	159/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	253		articStaccatoBelow									4		
+39	39	78	78	0.0	0	0	StaffText	2/4	2	1	0							<i>cresc.</i>										
+39	39	78	78	1.0	0	0	Chord	2/4	2	1	1/4		1/4	1	254									20				
+39	39	79	79	1.0	1/4	1/4	Chord	2/4	2	1	1/4		1/4	1	255									20				
+40	40	80	80	0.0	0	0	Spanner	2/4	1	1	0																	
+40	40	80	80	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	256		articStaccatoBelow											
+40	40	161/2	161/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	257		articStaccatoBelow											
+40	40	81	81	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	258		articStaccatoBelow											
+40	40	163/2	163/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	259		articStaccatoBelow											
+40	40	80	80	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	260									20				
+41	41	82	82	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	261		articStaccatoBelow											
+41	41	165/2	165/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	262		articStaccatoBelow											
+41	41	83	83	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	263		articStaccatoBelow											
+41	41	167/2	167/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	264		articStaccatoBelow											
+41	41	82	82	0.0	0	0	Spanner	2/4	2	1	0														4			
+41	41	82	82	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	265										4			
+42	42	84	84	0.0	0	0	Tempo	2/4	1	1	0								𝅘𝅥=80	80.0	𝅘𝅥	80.0	1.0					
+42	42	84	84	0.0	0	0	Dynamic	2/4	1	1	0					pp												
+42	42	84	84	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	266		articStaccatoBelow											
+42	42	169/2	169/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	267		articStaccatoBelow											
+42	42	85	85	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	268		articStaccatoBelow											
+42	42	171/2	171/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	269		articStaccatoBelow											
+42	42	84	84	0.0	0	0	Dynamic	2/4	2	1	0					p												
+42	42	84	84	0.0	0	0	Spanner	2/4	2	1	0																	
+42	42	84	84	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	270									21				
+43	43	86	86	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	271		articStaccatoBelow											
+43	43	173/2	173/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	272		articStaccatoBelow											
+43	43	87	87	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	273		articStaccatoBelow											
+43	43	175/2	175/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	274		articStaccatoBelow											
+43	43	86	86	1.75	0	0	Chord	2/4	2	1	7/16		1/4	7/4	275									21				
+43	43	351/4	351/4	0.25	7/16	7/16	Chord	2/4	2	1	1/16		1/16	1	276													
+44	44	88	88	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	277		articStaccatoBelow											
+44	44	177/2	177/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	278		articStaccatoBelow											
+44	44	89	89	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	279		articStaccatoBelow											
+44	44	179/2	179/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	280		articStaccatoBelow											
+44	44	88	88	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	281									22				
+45	45	90	90	0.0	0	0	StaffText	2/4	1	1	0							<i>poco rit.</i>										
+45	45	90	90	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	282		articStaccatoBelow											
+45	45	181/2	181/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	283		articStaccatoBelow											
+45	45	91	91	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	284		articStaccatoBelow											
+45	45	183/2	183/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	285		articStaccatoBelow											
+45	45	90	90	1.75	0	0	Chord	2/4	2	1	7/16		1/4	7/4	286									22				
+45	45	367/4	367/4	0.25	7/16	7/16	Chord	2/4	2	1	1/16		1/16	1	287													
+46	46	92	92	0.0	0	0	Tempo	2/4	1	1	0								𝅘𝅥=120	120.0	𝅘𝅥	120.0	1.0					
+46	46	92	92	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	288		articStaccatoBelow											
+46	46	185/2	185/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	289		articStaccatoBelow											
+46	46	93	93	0.0	1/4	1/4	StaffText	2/4	1	1	0							<i>rit.</i>										
+46	46	93	93	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	290		articStaccatoBelow											
+46	46	187/2	187/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	291		articStaccatoBelow											
+46	46	92	92	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	292									23				
+47	47	94	94	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	293		articStaccatoBelow											
+47	47	189/2	189/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	294		articStaccatoBelow											
+47	47	94	94	1.0	0	0	Chord	2/4	2	1	1/4		1/4	1	295									23				
+47	47	95	95	1.0	1/4	1/4	Chord	2/4	2	1	1/4		1/4	1	296									23				
+48	48	96	96	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	297		articStaccatoBelow											
+48	48	193/2	193/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	298		articStaccatoBelow											
+48	48	96	96	1.0	0	0	Chord	2/4	2	1	1/4		1/4	1	299		articTenutoBelow							23				
+48	48	97	97	1.0	1/4	1/4	Chord	2/4	2	1	1/4		1/4	1	300		articTenutoBelow											
+49	49	98	98	0.0	0	0	Tempo	2/4	1	1	0								𝅘𝅥=70	70.0	𝅘𝅥	70.0	1.0					
+49	49	99	99	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	301		articStaccatoBelow											
+49	49	199/2	199/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	302		articStaccatoBelow											
+49	49	98	98	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	303									24				
+50	50	101	101	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	304		articStaccatoBelow											
+50	50	203/2	203/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	305		articStaccatoBelow											
+50	50	100	100	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	306									24				
+51	51	103	103	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	307		articStaccatoBelow											
+51	51	207/2	207/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	308		articStaccatoBelow											
+51	51	102	102	0.0	0	0	StaffText	2/4	2	1	0							<i>calando</i>						24				
+51	51	102	102	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	309									24				
+52	52	105	105	0.0	1/4	1/4	StaffText	2/4	1	1	0							<i>rit.</i>										
+52	52	105	105	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	310		articStaccatoBelow											
+52	52	211/2	211/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	311		articStaccatoBelow											
+52	52	104	104	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	312									24				
+53	53	107	107	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	313		articStaccatoBelow											
+53	53	215/2	215/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	314		articStaccatoBelow											
+53	53	106	106	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	315													
+54	54	108	108	0.0	0	0	StaffText	2/4	1	1	0							<i>poco a poco accel.</i>										
+54	54	108	108	0.0	0	0	StaffText	2/4	1	1	0							<i>poco a poco cresc.</i>										
+54	54	108	108	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	316		articStaccatoBelow											
+54	54	217/2	217/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	317		articStaccatoBelow											
+54	54	109	109	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	318		articStaccatoBelow											
+54	54	219/2	219/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	319		articStaccatoBelow											
+54	54	108	108	1.0	0	0	Chord	2/4	2	1	1/4		1/4	1	320		articTenutoBelow											
+54	54	109	109	1.0	1/4	1/4	Chord	2/4	2	1	1/4		1/4	1	321		articTenutoBelow											
+55	55	110	110	0.0	0	0	Spanner	2/4	1	1	0															5		
+55	55	110	110	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	322		articStaccatoBelow									5		
+55	55	221/2	221/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	323		articStaccatoBelow									5		
+55	55	111	111	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	324		articStaccatoBelow									5		
+55	55	223/2	223/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	325		articStaccatoBelow									5		
+55	55	110	110	1.0	0	0	Chord	2/4	2	1	1/4		1/4	1	326		articTenutoBelow											
+55	55	111	111	1.0	1/4	1/4	Chord	2/4	2	1	1/4		1/4	1	327		articTenutoBelow											
+56	56	112	112	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	328		articStaccatoBelow									5		
+56	56	225/2	225/2	0.0	1/8	1/8	Spanner	2/4	1	1	0																	
+56	56	225/2	225/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	329		articStaccatoBelow											
+56	56	113	113	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	330		articStaccatoBelow											
+56	56	227/2	227/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	331		articStaccatoBelow											
+56	56	112	112	1.0	0	0	Chord	2/4	2	1	1/4		1/4	1	332		articTenutoBelow											
+56	56	113	113	1.0	1/4	1/4	Chord	2/4	2	1	1/4		1/4	1	333		articTenutoBelow											
+57	57	114	114	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	334		articStaccatoBelow											
+57	57	229/2	229/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	335		articStaccatoBelow											
+57	57	115	115	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	336		articStaccatoBelow											
+57	57	231/2	231/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	337		articStaccatoBelow											
+57	57	114	114	1.0	0	0	Chord	2/4	2	1	1/4		1/4	1	338		articTenutoBelow											
+57	57	115	115	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	339		articStaccatoBelow							25				
+57	57	231/2	231/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	340		articStaccatoBelow											
+58	58	116	116	0.0	0	0	StaffText	2/4	1	1	0							<i>molto</i>										
+58	58	116	116	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	341		articStaccatoBelow											
+58	58	233/2	233/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	342		articStaccatoBelow											
+58	58	117	117	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	343		articStaccatoBelow											
+58	58	235/2	235/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	344		articStaccatoBelow											
+58	58	116	116	1.0	0	0	Chord	2/4	2	1	1/4		1/4	1	345		articTenutoBelow											
+58	58	117	117	1.0	1/4	1/4	Chord	2/4	2	1	1/4		1/4	1	346		articTenutoBelow											
+59	59	118	118	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	347		articStaccatoBelow											
+59	59	237/2	237/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	348		articStaccatoBelow											
+59	59	119	119	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	349		articStaccatoBelow											
+59	59	239/2	239/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	350		articStaccatoBelow											
+59	59	118	118	1.0	0	0	Chord	2/4	2	1	1/4		1/4	1	351		articTenutoBelow											
+59	59	119	119	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	352		articStaccatoBelow							26				
+59	59	239/2	239/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	353		articStaccatoBelow											
+60	60	120	120	0.0	0	0	Tempo	2/4	1	1	0								𝅘𝅥=200	200.0	𝅘𝅥	200.0	1.0					
+60	60	120	120	0.0	0	0	Dynamic	2/4	1	1	0					f												
+60	60	120	120	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	354		articStaccatoAbove											
+60	60	241/2	241/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	355		articStaccatoAbove											
+60	60	121	121	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	356		articStaccatoAbove											
+60	60	243/2	243/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	357		articStaccatoAbove											
+60	60	120	120	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	358									27				
+61	61	122	122	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	359		articStaccatoAbove											
+61	61	245/2	245/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	360		articStaccatoAbove											
+61	61	123	123	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	361		articStaccatoBelow											
+61	61	247/2	247/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	362		articStaccatoBelow											
+61	61	122	122	1.0	0	0	Chord	2/4	2	1	1/4		1/4	1	363									27				
+61	61	123	123	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	364		articStaccatoBelow							27				
+61	61	247/2	247/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	365		articStaccatoBelow											
+62	62	124	124	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	366		articStaccatoAbove											
+62	62	249/2	249/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	367		articStaccatoAbove											
+62	62	125	125	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	368		articStaccatoAbove											
+62	62	251/2	251/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	369		articStaccatoAbove											
+62	62	124	124	0.0	0	0	Dynamic	2/4	2	1	0					sf												
+62	62	124	124	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	370									28				
+63	63	126	126	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	371		articStaccatoAbove											
+63	63	253/2	253/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	372		articStaccatoAbove											
+63	63	127	127	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	373		articStaccatoBelow											
+63	63	255/2	255/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	374		articStaccatoBelow											
+63	63	126	126	1.0	0	0	Chord	2/4	2	1	1/4		1/4	1	375									28				
+63	63	127	127	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	376		articStaccatoBelow							28				
+63	63	255/2	255/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	377		articStaccatoBelow											
+64	64	128	128	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	378		articStaccatoAbove											
+64	64	257/2	257/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	379		articStaccatoAbove											
+64	64	129	129	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	380		articStaccatoAbove											
+64	64	259/2	259/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	381		articStaccatoAbove											
+64	64	128	128	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	382		articStaccatoAbove											
+64	64	257/2	257/2	0.5	1/8	1/8	Chord	2/4	2	1	1/8		1/8	1	383		articStaccatoAbove											
+64	64	129	129	1.0	1/4	1/4	Chord	2/4	2	1	1/4		1/4	1	384									29				
+65	65	130	130	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	385		articStaccatoAbove											
+65	65	261/2	261/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	386		articStaccatoAbove											
+65	65	131	131	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	387		articStaccatoAbove											
+65	65	263/2	263/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	388		articStaccatoAbove											
+65	65	130	130	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	389									29				
+65	65	261/2	261/2	0.5	1/8	1/8	Chord	2/4	2	1	1/8		1/8	1	390													
+65	65	131	131	1.0	1/4	1/4	Chord	2/4	2	1	1/4		1/4	1	391									30				
+66	66	132	132	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	392		articStaccatoAbove											
+66	66	265/2	265/2	0.0	1/8	1/8	Spanner	2/4	1	1	0															6		
+66	66	265/2	265/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	393		articStaccatoAbove									6		
+66	66	133	133	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	394		articStaccatoBelow									6		
+66	66	267/2	267/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	395		articStaccatoBelow									6		
+66	66	132	132	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	396									30				
+66	66	265/2	265/2	0.5	1/8	1/8	Chord	2/4	2	1	1/8		1/8	1	397													
+66	66	133	133	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	398		articStaccatoAbove											
+66	66	267/2	267/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	399		articStaccatoAbove											
+67	67	134	134	0.0	0	0	StaffText	2/4	1	1	0							<i>acc.</i>								6		
+67	67	134	134	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	400		articStaccatoAbove									6		
+67	67	269/2	269/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	401		articStaccatoAbove									6		
+67	67	135	135	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	402		articStaccatoBelow									6		
+67	67	271/2	271/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	403		articStaccatoBelow									6		
+67	67	134	134	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	404		articStaccatoAbove											
+67	67	269/2	269/2	0.5	1/8	1/8	Chord	2/4	2	1	1/8		1/8	1	405		articStaccatoAbove											
+67	67	135	135	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	406		articStaccatoAbove											
+67	67	271/2	271/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	407		articStaccatoAbove											
+68	68	136	136	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	408		articStaccatoAbove									6		
+68	68	273/2	273/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	409		articStaccatoAbove									6		
+68	68	137	137	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	410		articStaccatoBelow									6		
+68	68	275/2	275/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	411		articStaccatoBelow									6		
+68	68	136	136	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	412		articStaccatoAbove											
+68	68	273/2	273/2	0.5	1/8	1/8	Chord	2/4	2	1	1/8		1/8	1	413		articStaccatoAbove											
+68	68	137	137	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	414		articStaccatoAbove											
+68	68	275/2	275/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	415		articStaccatoAbove											
+69	69	138	138	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	416		articStaccatoAbove									6		
+69	69	277/2	277/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	417		articStaccatoAbove									6		
+69	69	139	139	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	418		articStaccatoBelow									6		
+69	69	279/2	279/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	419		articStaccatoBelow									6		
+69	69	138	138	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	420		articStaccatoAbove											
+69	69	277/2	277/2	0.5	1/8	1/8	Chord	2/4	2	1	1/8		1/8	1	421		articStaccatoAbove											
+69	69	139	139	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	422		articStaccatoAbove											
+69	69	279/2	279/2	0.0	3/8	3/8	Spanner	2/4	2	1	0																0	
+69	69	279/2	279/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	423		articStaccatoAbove										0	
+70	70	140	140	0.0	0	0	Tempo	2/4	1	1	0								𝅘𝅥=208	208.0	𝅘𝅥	208.0	1.0					
+70	70	140	140	0.0	0	0	Dynamic	2/4	1	1	0					sf												
+70	70	140	140	0.0	0	0	Spanner	2/4	1	1	0																	
+70	70	140	140	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	424		articStaccatoAbove											
+70	70	281/2	281/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	425		articStaccatoAbove											
+70	70	141	141	0.0	1/4	1/4	Dynamic	2/4	2	1	0					sf												
+70	70	141	141	0.0	1/4	1/4	Spanner	2/4	2	1	0																	
+70	70	141	141	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	426		articStaccatoAbove											
+70	70	283/2	283/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	427		articStaccatoAbove											
+71	71	142	142	0.0	0	0	Dynamic	2/4	1	1	0					sf												
+71	71	142	142	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	428		articStaccatoAbove											
+71	71	285/2	285/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	429		articStaccatoAbove											
+71	71	143	143	0.0	1/4	1/4	Dynamic	2/4	2	1	0					sf												
+71	71	143	143	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	430		articStaccatoBelow											
+71	71	287/2	287/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	431		articStaccatoBelow											
+72	72	144	144	0.0	0	0	Dynamic	2/4	1	1	0					sf												
+72	72	144	144	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	432		articStaccatoBelow											
+72	72	289/2	289/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	433		articStaccatoBelow											
+72	72	145	145	0.0	1/4	1/4	Dynamic	2/4	2	1	0					sf												
+72	72	145	145	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	434		articStaccatoBelow											
+72	72	291/2	291/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	435		articStaccatoBelow											
+73	73	146	146	0.0	0	0	Dynamic	2/4	1	1	0					sf												
+73	73	146	146	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	436		articStaccatoBelow											
+73	73	293/2	293/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	437		articStaccatoBelow											
+73	73	295/2	295/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	438		articStaccatoAbove											
+73	73	147	147	0.0	1/4	1/4	Dynamic	2/4	2	1	0					sf												
+73	73	147	147	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	439		articStaccatoBelow											
+73	73	295/2	295/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	440		articStaccatoBelow											
+74	74	148	148	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	441													
+74	74	297/2	297/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	442													
+74	74	299/2	299/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	443													
+74	74	148	148	0.0	0	0	StaffText	2/4	2	1	0							<i>cresc.</i>										
+74	74	297/2	297/2	0.0	1/8	1/8	Spanner	2/4	2	1	0															7		
+74	74	297/2	297/2	0.5	1/8	1/8	Chord	2/4	2	1	1/8		1/8	1	444		articStaccatoBelow									7		
+74	74	149	149	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	445		articStaccatoBelow									7		
+74	74	299/2	299/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	446		articStaccatoBelow									7		
+75	75	150	150	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	447													
+75	75	301/2	301/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	448													
+75	75	303/2	303/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	449		articStaccatoAbove											
+75	75	150	150	0.0	0	0	Spanner	2/4	2	1	0																	
+75	75	301/2	301/2	0.0	1/8	1/8	Spanner	2/4	2	1	0															8		
+75	75	301/2	301/2	0.5	1/8	1/8	Chord	2/4	2	1	1/8		1/8	1	450		articStaccatoBelow									8		
+75	75	151	151	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	451		articStaccatoBelow									8		
+75	75	303/2	303/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	452		articStaccatoBelow									8		
+76	76	152	152	0.0	0	0	StaffText	2/4	1	1	0							<i>poco rit.</i>										
+76	76	152	152	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	453													
+76	76	305/2	305/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	454													
+76	76	307/2	307/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	455		articStaccatoAbove											
+76	76	152	152	0.0	0	0	Spanner	2/4	2	1	0																	
+76	76	305/2	305/2	0.0	1/8	1/8	Spanner	2/4	2	1	0															9		
+76	76	305/2	305/2	0.5	1/8	1/8	Chord	2/4	2	1	1/8		1/8	1	456		articStaccatoBelow									9		
+76	76	153	153	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	457		articStaccatoBelow									9		
+76	76	307/2	307/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	458		articStaccatoBelow									9		
+77	77	154	154	0.0	0	0	StaffText	2/4	1	1	0							<i>al</i>										
+77	77	154	154	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	459													
+77	77	309/2	309/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	460													
+77	77	311/2	311/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	461		articStaccatoAbove											
+77	77	154	154	0.0	0	0	Spanner	2/4	2	1	0																	
+77	77	309/2	309/2	0.5	1/8	1/8	Chord	2/4	2	1	1/8		1/8	1	462		articStaccatoAbove											
+77	77	155	155	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	463		articStaccatoAbove											
+77	77	311/2	311/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	464		articStaccatoAbove											
+78	78	156	156	0.0	0	0	Tempo	2/4	1	1	0								𝅘𝅥=184	184.0	𝅘𝅥	184.0	1.0					
+78	78	156	156	0.0	0	0	Dynamic	2/4	1	1	0					ff												
+78	78	156	156	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	465		articMarcatoAbove							31				
+78	78	313/2	313/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	466													
+78	78	157	157	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	467		articMarcatoAbove							32				
+78	78	315/2	315/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	468													
+79	79	158	158	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	469		articMarcatoAbove							33				
+79	79	317/2	317/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	470													
+79	79	159	159	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	471		articMarcatoAbove							34				
+79	79	319/2	319/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	472													
+79	79	158	158	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	473		articMarcatoAbove											
+80	80	160	160	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	474		articMarcatoAbove							35				
+80	80	321/2	321/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	475													
+80	80	161	161	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	476		articMarcatoAbove							36				
+80	80	323/2	323/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	477													
+80	80	160	160	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	478		articMarcatoAbove											
+81	81	162	162	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	479		articMarcatoAbove							37				
+81	81	325/2	325/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	480													
+81	81	163	163	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	481		articMarcatoAbove							38				
+81	81	327/2	327/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	482													
+81	81	162	162	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	483		articMarcatoAbove											
+82	82	164	164	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	484		articMarcatoAbove							39				
+82	82	329/2	329/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	485													
+82	82	165	165	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	486		articMarcatoAbove							40				
+82	82	331/2	331/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	487													
+82	82	164	164	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	488		articMarcatoAbove											
+83	83	166	166	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	489		articMarcatoAbove							41				
+83	83	333/2	333/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	490													
+83	83	167	167	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	491		articMarcatoAbove							42				
+83	83	335/2	335/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	492													
+83	83	166	166	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	493		articMarcatoAbove											
+84	84	168	168	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	494		articMarcatoAbove							43				
+84	84	337/2	337/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	495													
+84	84	169	169	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	496		articMarcatoAbove							44				
+84	84	339/2	339/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	497													
+84	84	168	168	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	498													
+85	85	170	170	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	499		articMarcatoAbove							45				
+85	85	341/2	341/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	500													
+85	85	171	171	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	501		articMarcatoAbove							46				
+85	85	343/2	343/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	502													
+85	85	170	170	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	503													
+86	86	172	172	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	504		articMarcatoAbove							47				
+86	86	345/2	345/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	505													
+86	86	173	173	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	506		articMarcatoAbove							48				
+86	86	347/2	347/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	507		articStaccatoAbove											
+86	86	172	172	1.0	0	0	Chord	2/4	2	1	1/4		1/4	1	508													
+86	86	173	173	1.0	1/4	1/4	Chord	2/4	2	1	1/4		1/4	1	509		articTenutoAbove											
+87	87	174	174	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	510		articMarcatoAbove							49				
+87	87	349/2	349/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	511		articStaccatoAbove											
+87	87	175	175	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	512		articMarcatoAbove							50				
+87	87	351/2	351/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	513		articStaccatoAbove											
+87	87	174	174	1.0	0	0	Chord	2/4	2	1	1/4		1/4	1	514		articTenutoBelow											
+87	87	175	175	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	515		articTenutoBelow											
+87	87	351/2	351/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	516		articTenutoBelow											
+88	88	176	176	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	517		articMarcatoAbove							51				
+88	88	353/2	353/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	518		articStaccatoAbove											
+88	88	177	177	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	519		articMarcatoAbove							52				
+88	88	355/2	355/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	520		articStaccatoAbove											
+88	88	176	176	1.0	0	0	Chord	2/4	2	1	1/4		1/4	1	521		articTenutoBelow											
+88	88	177	177	0.0	1/4	1/4	Spanner	2/4	2	1	0															10		
+88	88	177	177	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	522		articStaccatoBelow									10		
+88	88	355/2	355/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	523		articStaccatoBelow									10		
+89	89	178	178	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	524		articMarcatoAbove							53				
+89	89	357/2	357/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	525		articStaccatoAbove											
+89	89	179	179	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	526		articMarcatoAbove							54				
+89	89	359/2	359/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	527		articStaccatoAbove											
+89	89	178	178	0.0	0	0	Spanner	2/4	2	1	0																	
+89	89	178	178	0.0	0	0	Spanner	2/4	2	1	0														5			
+89	89	178	178	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	528									55	5			
+89	89	357/2	357/2	0.5	1/8	1/8	Chord	2/4	2	1	1/8		1/8	1	529										5			
+89	89	179	179	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	530		articTenutoBelow								5			
+89	89	359/2	359/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	531		articTenutoBelow								5			
+90	90	180	180	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	532		articMarcatoAbove							56				
+90	90	361/2	361/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	533		articStaccatoAbove											
+90	90	181	181	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	534		articMarcatoAbove							57				
+90	90	363/2	363/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	535		articStaccatoAbove											
+90	90	180	180	0.0	0	0	Spanner	2/4	2	1	0																	
+90	90	180	180	1.0	0	0	Chord	2/4	2	1	1/4		1/4	1	536		articTenutoBelow											
+90	90	181	181	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	537		articStaccatoBelow											
+90	90	363/2	363/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	538		articStaccatoBelow											
+91	91	182	182	0.0	0	0	StaffText	2/4	1	1	0							<i>sempre</i>										
+91	91	182	182	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	539		articStaccatoBelow											
+91	91	365/2	365/2	0.5	1/8	1/8	Chord	2/4	2	1	1/8		1/8	1	540		articStaccatoBelow											
+91	91	183	183	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	541		articStaccatoBelow											
+91	91	367/2	367/2	0.0	3/8	3/8	Dynamic	2/4	2	1	0					ff												
+91	91	367/2	367/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	542		articStaccatoBelow											
+92	92	184	184	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	543		articStaccatoBelow											
+92	92	369/2	369/2	0.5	1/8	1/8	Chord	2/4	2	1	1/8		1/8	1	544		articStaccatoBelow											
+92	92	185	185	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	545		articStaccatoBelow											
+92	92	371/2	371/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	546		articStaccatoBelow											
+93	93	186	186	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	547									58				
+93	93	373/2	373/2	0.5	1/8	1/8	Chord	2/4	2	1	1/8		1/8	1	548													
+93	93	187	187	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	549		articStaccatoBelow											
+93	93	375/2	375/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	550		articStaccatoBelow											
+94	94	188	188	0.0	0	0	StaffText	2/4	1	1	0							<i>con fuoco</i>										
+94	94	188	188	0.0	0	0	Tempo	2/4	1	1	0								𝅘𝅥=208	208.0	𝅘𝅥	208.0	1.0					
+94	94	188	188	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	551									59				
+94	94	377/2	377/2	0.5	1/8	1/8	Chord	2/4	2	1	1/8		1/8	1	552													
+94	94	189	189	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	553									60				
+94	94	379/2	379/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	554													
+95	95	190	190	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	555		articMarcatoAbove							61				
+95	95	381/2	381/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	556		articStaccatoAbove											
+95	95	191	191	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	557		articMarcatoAbove							62				
+95	95	383/2	383/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	558		articStaccatoAbove											
+95	95	190	190	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	559									63				
+96	96	192	192	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	560		articMarcatoAbove							64				
+96	96	385/2	385/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	561		articStaccatoAbove											
+96	96	192	192	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	562									63				
+96	96	385/2	385/2	0.5	1/8	1/8	Chord	2/4	2	1	1/8		1/8	1	563													
+96	96	193	193	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	564									65				
+96	96	387/2	387/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	565													
+97	97	194	194	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	566		articMarcatoAbove							66				
+97	97	389/2	389/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	567		articStaccatoAbove											
+97	97	195	195	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	568		articMarcatoAbove							67				
+97	97	391/2	391/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	569		articStaccatoAbove											
+97	97	194	194	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	570									68				
+98	98	196	196	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	571		articMarcatoAbove							69				
+98	98	393/2	393/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	572		articStaccatoAbove											
+98	98	196	196	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	573									68				
+98	98	393/2	393/2	0.5	1/8	1/8	Chord	2/4	2	1	1/8		1/8	1	574													
+98	98	197	197	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	575									70				
+98	98	395/2	395/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	576													
+99	99	198	198	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	577									71				
+99	99	397/2	397/2	0.5	1/8	1/8	Chord	2/4	2	1	1/8		1/8	1	578													
+99	99	199	199	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	579									72				
+99	99	399/2	399/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	580													
+100	100	200	200	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	581									73				
+100	100	401/2	401/2	0.5	1/8	1/8	Chord	2/4	2	1	1/8		1/8	1	582													
+100	100	201	201	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	583									74				
+100	100	403/2	403/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	584													
+101	101	202	202	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	585									75				
+101	101	405/2	405/2	0.5	1/8	1/8	Chord	2/4	2	1	1/8		1/8	1	586													
+101	101	203	203	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	587									76				
+101	101	407/2	407/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	588													
+102	102	204	204	0.0	0	0	StaffText	2/4	1	1	0							<i>molto dim.</i>										
+102	102	204	204	0.0	0	0	Tempo	2/4	1	1	0								𝅘𝅥=88	88.0	𝅘𝅥	88.0	1.0					
+102	102	204	204	0.0	0	0	StaffText	2/4	2	1	0							<i>espress.</i>										
+102	102	204	204	0.0	0	0	Spanner	2/4	2	1	0														6			
+102	102	204	204	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	589										6			
+102	102	409/2	409/2	1.5	1/8	1/8	Chord	2/4	2	1	3/8		1/4	3/2	590										6			
+103	103	206	206	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	591										6			
+103	103	413/2	413/2	1.5	1/8	1/8	Chord	2/4	2	1	3/8		1/4	3/2	592										6			
+104	104	208	208	1.5	0	0	Chord	2/4	2	1	3/8		1/4	3/2	593										6			
+104	104	419/2	419/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	594										6			
+105	105	210	210	0.0	0	0	StaffText	2/4	1	1	0							<i>rit.</i>										
+105	105	210	210	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	595										6			
+106	106	212	212	0.0	0	0	Dynamic	2/4	1	1	0					p												
+106	106	212	212	0.0	0	0	Spanner	2/4	2	1	0																	
+106	106	212	212	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	596													
+108	108	216	216	0.0	0	0	Tempo	2/4	1	1	0								𝅘𝅥=132	132.0	𝅘𝅥	132.0	1.0					
+108	108	216	216	0.0	0	0	StaffText	2/4	1	1	0							<i>sempre</i>										
+108	108	216	216	0.0	0	0	Dynamic	2/4	1	1	0					pp												
+108	108	216	216	0.0	0	0	Chord	2/4	1	1	0	grace32	1/32	1	597													
+108	108	216	216	0.0	0	0	Chord	2/4	1	1	0	grace32	1/32	1	598													
+108	108	216	216	0.0	0	0	Chord	2/4	1	1	0	grace32	1/32	1	599													
+108	108	216	216	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	600													
+108	108	433/2	433/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	601		articStaccatoAbove											
+108	108	217	217	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	602		articStaccatoAbove											
+108	108	435/2	435/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	603		articStaccatoAbove											
+109	109	218	218	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	604		articStaccatoAbove											
+109	109	218	218	0.0	0	0	Chord	2/4	2	1	0	grace32	1/32	1	605													
+109	109	218	218	0.0	0	0	Chord	2/4	2	1	0	grace32	1/32	1	606													
+109	109	218	218	0.0	0	0	Chord	2/4	2	1	0	grace32	1/32	1	607													
+109	109	218	218	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	608													
+109	109	437/2	437/2	0.5	1/8	1/8	Chord	2/4	2	1	1/8		1/8	1	609		articStaccatoAbove											
+109	109	219	219	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	610		articStaccatoAbove											
+109	109	439/2	439/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	611		articStaccatoAbove											
+110	110	220	220	0.0	0	0	Chord	2/4	1	1	0	grace32	1/32	1	612													
+110	110	220	220	0.0	0	0	Chord	2/4	1	1	0	grace32	1/32	1	613													
+110	110	220	220	0.0	0	0	Chord	2/4	1	1	0	grace32	1/32	1	614													
+110	110	220	220	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	615													
+110	110	441/2	441/2	0.5	1/8	1/8	Chord	2/4	1	1	1/8		1/8	1	616		articStaccatoAbove											
+110	110	221	221	0.5	1/4	1/4	Chord	2/4	1	1	1/8		1/8	1	617		articStaccatoAbove											
+110	110	443/2	443/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	618		articStaccatoAbove											
+110	110	220	220	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	619		articStaccatoBelow											
+111	111	222	222	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	620		articStaccatoAbove											
+111	111	222	222	0.0	0	0	Chord	2/4	2	1	0	grace32	1/32	1	621													
+111	111	222	222	0.0	0	0	Chord	2/4	2	1	0	grace32	1/32	1	622													
+111	111	222	222	0.0	0	0	Chord	2/4	2	1	0	grace32	1/32	1	623													
+111	111	222	222	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	624													
+111	111	445/2	445/2	0.5	1/8	1/8	Chord	2/4	2	1	1/8		1/8	1	625		articStaccatoBelow											
+111	111	223	223	0.5	1/4	1/4	Chord	2/4	2	1	1/8		1/8	1	626		articStaccatoBelow											
+111	111	447/2	447/2	0.5	3/8	3/8	Chord	2/4	2	1	1/8		1/8	1	627		articStaccatoBelow											
+112	112	224	224	0.0	0	0	Chord	2/4	1	1	0	grace32	1/32	1	628													
+112	112	224	224	0.0	0	0	Chord	2/4	1	1	0	grace32	1/32	1	629													
+112	112	224	224	0.0	0	0	Chord	2/4	1	1	0	grace32	1/32	1	630													
+112	112	224	224	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	631		articStaccatoBelow											
+113	113	226	226	0.0	0	0	Chord	2/4	2	1	0	grace32	1/32	1	632													
+113	113	226	226	0.0	0	0	Chord	2/4	2	1	0	grace32	1/32	1	633													
+113	113	226	226	0.0	0	0	Chord	2/4	2	1	0	grace32	1/32	1	634													
+113	113	226	226	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	635		articStaccatoAbove											
+114	114	228	228	0.0	0	0	Chord	2/4	1	1	0	grace32	1/32	1	636													
+114	114	228	228	0.0	0	0	Chord	2/4	1	1	0	grace32	1/32	1	637													
+114	114	228	228	0.0	0	0	Chord	2/4	1	1	0	grace32	1/32	1	638													
+114	114	228	228	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	639		articStaccatoBelow											
+114	114	228	228	0.0	0	0	Chord	2/4	2	1	0	grace32	1/32	1	640													
+114	114	228	228	0.0	0	0	Chord	2/4	2	1	0	grace32	1/32	1	641													
+114	114	228	228	0.0	0	0	Chord	2/4	2	1	0	grace32	1/32	1	642													
+114	114	228	228	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	643		articStaccatoAbove											
+115	115	230	230	0.0	0	0	Chord	2/4	1	1	0	grace32	1/32	1	644													
+115	115	230	230	0.0	0	0	Chord	2/4	1	1	0	grace32	1/32	1	645													
+115	115	230	230	0.0	0	0	Chord	2/4	1	1	0	grace32	1/32	1	646													
+115	115	230	230	0.5	0	0	Chord	2/4	1	1	1/8		1/8	1	647		articStaccatoAbove											
+115	115	231	231	0.0	1/4	1/4	Spanner	2/4	1	1	0																	0
+115	115	230	230	0.0	0	0	Chord	2/4	2	1	0	grace32	1/32	1	648													
+115	115	230	230	0.0	0	0	Chord	2/4	2	1	0	grace32	1/32	1	649													
+115	115	230	230	0.0	0	0	Chord	2/4	2	1	0	grace32	1/32	1	650													
+115	115	230	230	0.5	0	0	Chord	2/4	2	1	1/8		1/8	1	651		articStaccatoAbove											
+116	116	232	232	0.0	0	0	StaffText	2/4	1	1	0							<i>ritard.</i>										0
+116	116	232	232	0.0	0	0	Spanner	2/4	1	1	0														7			0
+116	116	232	232	0.0	0	0	Chord	2/4	1	1	0	grace32	1/32	1	652										7			0
+116	116	232	232	0.0	0	0	Chord	2/4	1	1	0	grace32	1/32	1	653										7			0
+116	116	232	232	0.0	0	0	Chord	2/4	1	1	0	grace32	1/32	1	654										7			0
+116	116	232	232	1.0	0	0	Chord	2/4	1	1	1/4		1/4	1	655		articTenutoStaccatoAbove								7			0
+116	116	233	233	1.0	1/4	1/4	Chord	2/4	1	1	1/4		1/4	1	656		articTenutoStaccatoAbove								7			0
+116	116	232	232	0.0	0	0	StaffText	2/4	2	1	0							<i>con molto sentimento</i>										
+116	116	232	232	0.0	0	0	Chord	2/4	2	1	0	grace32	1/32	1	657													
+116	116	232	232	0.0	0	0	Chord	2/4	2	1	0	grace32	1/32	1	658													
+116	116	232	232	0.0	0	0	Chord	2/4	2	1	0	grace32	1/32	1	659													
+116	116	232	232	1.0	0	0	Chord	2/4	2	1	1/4		1/4	1	660		articTenutoStaccatoBelow											
+116	116	233	233	1.0	1/4	1/4	Chord	2/4	2	1	1/4		1/4	1	661		articTenutoStaccatoBelow											
+117	117	234	234	1.0	0	0	Chord	2/4	1	1	1/4		1/4	1	662		articTenutoStaccatoAbove								7			0
+117	117	235	235	1.0	1/4	1/4	Chord	2/4	1	1	1/4		1/4	1	663		articTenutoStaccatoAbove								7			0
+117	117	234	234	1.0	0	0	Chord	2/4	2	1	1/4		1/4	1	664		articTenutoStaccatoBelow											
+117	117	235	235	1.0	1/4	1/4	Chord	2/4	2	1	1/4		1/4	1	665		articTenutoStaccatoBelow											
+118	118	236	236	2.0	0	0	Chord	2/4	1	1	1/2		1/2	1	666										7			0
+118	118	238	238	0.0	1/2	1/2	Spanner	2/4	1	1	0																	
+118	118	238	238	0.0	1/2	1/2	Spanner	2/4	1	1	0																	
+118	118	236	236	2.0	0	0	Chord	2/4	2	1	1/2		1/2	1	667													

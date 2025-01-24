@@ -70,6 +70,7 @@
     <metaTag name="P86 (composer)">Q83326</metaTag>
     <metaTag name="annotators">Amelia Brey</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1908</metaTag>
     <metaTag name="composed_source">https://en.wikipedia.org/wiki/14_Bagatelles</metaTag>
     <metaTag name="composed_start">1908</metaTag>
