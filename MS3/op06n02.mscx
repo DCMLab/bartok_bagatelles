@@ -118,7 +118,6 @@
         <maxPitchA>108</maxPitchA>
         <instrumentId>keyboard.piano</instrumentId>
         <clef staff="2">F</clef>
-        <singleNoteDynamics>0</singleNoteDynamics>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>95</gateTime>
@@ -160,6 +159,10 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="harmony">
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
@@ -4419,7 +4422,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV64(13)</name>
+            <name>#IM7(+8)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
