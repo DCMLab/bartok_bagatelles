@@ -5068,7 +5068,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(6)</name>
+            <name>V7(^b7)</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
