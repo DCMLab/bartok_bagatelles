@@ -5165,7 +5165,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6(+14+13)</name>
+            <name>V65(+b8+7)/#III</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -5197,7 +5197,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bii6</name>
+            <name>#i6</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -5242,7 +5242,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6(+14+13)</name>
+            <name>V65(+b8+7)/#III</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -5280,7 +5280,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bii6</name>
+            <name>#i6</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
