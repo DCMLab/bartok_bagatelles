@@ -1,5 +1,5 @@
 mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	timesig	staff	voice	duration	nominal_duration	scalar	chord_id	dynamics	articulation	staff_text	tempo	qpm	metronome_base	metronome_number	tempo_visible	slur	decrescendo_hairpin	crescendo_hairpin	Ottava:8va
-1	1	0	0	0.0	0	0	Tempo	2/4	1	1	0							Vivo𝅗𝅥=84	168.0	Vivo𝅗𝅥	84.0	1.0				
+1	1	0	0	0.0	0	0	Tempo	2/4	1	1	0							Vivo𝅗𝅥=84	168.0	Vivo𝅗𝅥	84.0	0.0				
 1	1	0	0	0.0	0	0	Dynamic	2/4	1	1	0				p											
 1	1	0	0	0.0	0	0	StaffText	2/4	1	1	0						<i>leggiero</i>									
 1	1	0	0	0.5	0	0	Chord	2/4	1	1	1/8	1/8	1	0												
