@@ -14042,7 +14042,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%65/#iv</name>
+            <name>#v(#6)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
