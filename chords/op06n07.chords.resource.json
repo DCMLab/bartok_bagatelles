@@ -170,11 +170,11 @@
         "type": "string"
       },
       {
-        "name": "TextLine",
+        "name": "Ottava:8va",
         "type": "string"
       },
       {
-        "name": "Ottava:8va",
+        "name": "TextLine",
         "type": "string"
       },
       {
@@ -187,8 +187,8 @@
       }
     ],
     "facet": "chords",
-    "identifier": "QxKJWMdLN3gBDw",
-    "filepath": "chords/QxKJWMdLN3gBDw.schema.yaml",
+    "identifier": "RPpnzWif9fAUEg",
+    "filepath": "chords/RPpnzWif9fAUEg.schema.yaml",
     "used_in": "op06n07"
   },
   "creator": {
