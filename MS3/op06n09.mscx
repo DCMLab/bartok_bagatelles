@@ -7308,7 +7308,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>B.ii7{</name>
+            <name>B.i{</name>
             </Harmony>
           <Chord>
             <dots>2</dots>
@@ -7333,6 +7333,10 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii7</name>
+            </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
@@ -7391,7 +7395,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi64</name>
+            <name>biv</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -7536,7 +7540,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio64/IV</name>
+            <name>biv(+4)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
