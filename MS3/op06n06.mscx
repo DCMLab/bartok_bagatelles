@@ -2440,7 +2440,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII7(9)/bV</name>
+            <name>IV(+9)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
