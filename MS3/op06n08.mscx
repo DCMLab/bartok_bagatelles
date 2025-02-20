@@ -6138,7 +6138,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.bII(139){</name>
+            <name>#IVM7(+#74){</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -6632,7 +6632,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVI6(11b9)</name>
+            <name>I.bVI6(11b9)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
