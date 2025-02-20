@@ -40,7 +40,7 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License 
 |op06n05  |      90|    28|2.3.0   |Amelia Brey|DK       |
 |op06n06  |      25|    53|2.3.0   |Amelia Brey|DK       |
 |op06n07  |     118|   110|2.3.0   |Amelia Brey|HB       |
-|op06n08  |      32|    69|2.3.0   |Amelia Brey|DK       |
+|op06n08  |      32|    70|2.3.0   |Amelia Brey|DK       |
 |op06n09  |      70|    88|2.3.0   |Amelia Brey|DK       |
 |op06n10  |     102|   224|2.3.0   |Amelia Brey|HB       |
 |op06n11  |      87|   100|2.3.0   |Amelia Brey|DK       |

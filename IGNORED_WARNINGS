@@ -3,3 +3,12 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 12, '5/8', 'iio7/V') ms3.Parse
 
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 18, '0', 'V7(+b6)/V') ms3.Parse.bartok_bagatelles.op06n08
 	The label 'V7(+b6)/V' in m. 18, onset 0 (MC 18, onset 0) is plausible and the chroma are passing notes in the RH.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 20, '1/8', '#IV(^b5)') ms3.Parse.bartok_bagatelles.op06n08
+	The label '#IV(^b5)' in m. 20, onset 1/8 (MC 20, onset 1/8) works over the Eb pedal tone.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 20, '1/4', '#I(^#5)') ms3.Parse.bartok_bagatelles.op06n08
+	The label '#I(^#5)' in m. 20, onset 1/4 (MC 20, onset 1/4) works over the Eb pedal tone.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 21, '1/8', 'I]') ms3.Parse.bartok_bagatelles.op06n08
+	The label 'I]' in m. 21, onset 1/8 (MC 21, onset 1/8) is the ending of the bIV pedal area and the chroma following are passing notes.

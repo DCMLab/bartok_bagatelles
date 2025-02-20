@@ -5668,7 +5668,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.IM7</name>
+            <name>bIV.IM7</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -5699,7 +5699,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bV+</name>
+            <name>#IV(^b5)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5722,7 +5722,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII+(119)</name>
+            <name>IV7(+b6)</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -5756,7 +5756,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IM7</name>
+            <name>I[IM7</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -5805,7 +5805,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bV+</name>
+            <name>#IV(^b5)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5957,7 +5957,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII+</name>
+            <name>#I(^#5)</name>
+            <offset x="-0.0860604" y="10.2315"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -6066,6 +6067,10 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I]</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
