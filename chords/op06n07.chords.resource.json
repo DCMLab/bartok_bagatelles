@@ -170,25 +170,25 @@
         "type": "string"
       },
       {
-        "name": "decrescendo_hairpin",
-        "type": "string"
-      },
-      {
-        "name": "crescendo_hairpin",
-        "type": "string"
-      },
-      {
         "name": "TextLine",
         "type": "string"
       },
       {
         "name": "Ottava:8va",
         "type": "string"
+      },
+      {
+        "name": "decrescendo_hairpin",
+        "type": "string"
+      },
+      {
+        "name": "crescendo_hairpin",
+        "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "j9ovn_hVlYfUsg",
-    "filepath": "chords/j9ovn_hVlYfUsg.schema.yaml",
+    "identifier": "QxKJWMdLN3gBDw",
+    "filepath": "chords/QxKJWMdLN3gBDw.schema.yaml",
     "used_in": "op06n07"
   },
   "creator": {
@@ -202,7 +202,5 @@
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
     "softwareVersion": "2.5.3"
-  },
-  "git_revision": "0f2f2152dbdc9e745f757ded7e9729f93e602312",
-  "git_tag": "v2.1-1-g0f2f215"
+  }
 }
