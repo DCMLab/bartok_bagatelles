@@ -24,7 +24,7 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	timesi
 10	10	19	19	3.0	1/4	1/4	2/4	2	2	bvi}	B	I		bvi	bvi						}	m	0	0	-4, -7, -3		-4	-4
 12	12	22	22	0.5	0	0	2/4	2	1	bVI.viM7{	B	bVI		viM7	vi	M	7				{	mM7	0	0	3, 0, 4, 8		3	3
 12	12	45/2	45/2	0.5	1/8	1/8	2/4	2	1	II+	B	bVI		II+	II	+						+	0	0	2, 6, 10		2	2
-12	12	23	23	0.5	1/4	1/4	2/4	2	1	III+	B	bVI		III+	III	+						+	0	0	4, 8, 12		4	4
+12	12	23	23	0.5	1/4	1/4	2/4	2	1	bIII+	B	bVI		bIII+	bIII	+						+	0	0	-3, 1, 5		-3	-3
 12	12	47/2	47/2	0.5	3/8	3/8	2/4	2	1	bII(11)	B	bVI		bII(11)	bII			11				M	0	0	-5, -1, -4	1	-5	-5
 13	13	24	24	0.5	0	0	2/4	2	1	I+	B	bVI		I+	I	+						+	0	0	0, 4, 8		0	0
 13	13	49/2	49/2	1.5	1/8	1/8	2/4	2	1	V+6(b9)	B	bVI		V+6(b9)	V	+	6	b9				+	0	0	5, 9, 1	-4	1	5
