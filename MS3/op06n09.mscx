@@ -8673,7 +8673,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>biv(+4)</name>
+            <name>bIV(+4)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -8725,7 +8725,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii7</name>
+            <name>i</name>
             </Harmony>
           <Chord>
             <dots>2</dots>
@@ -8750,6 +8750,10 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii7</name>
+            </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
@@ -9147,7 +9151,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bV7</name>
+            <name>III(+#4#2)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -9191,10 +9195,6 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bVII7</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -9240,10 +9240,6 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bVI7</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
