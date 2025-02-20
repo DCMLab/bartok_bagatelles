@@ -9291,7 +9291,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVII7</name>
+            <name>#i(+#6#4)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -9338,10 +9338,6 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bV7</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -9384,10 +9380,6 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio6/ii</name>
-            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
