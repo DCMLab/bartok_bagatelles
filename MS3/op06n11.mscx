@@ -6081,7 +6081,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64(#13)</name>
+            <name>bvii2</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -6145,7 +6145,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64(#13)</name>
+            <name>bvii2</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
