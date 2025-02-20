@@ -2096,7 +2096,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i2/#vi{</name>
+            <name>V2/bIII{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2133,7 +2133,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64/#vi</name>
+            <name>bIV</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>

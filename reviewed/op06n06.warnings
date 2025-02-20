@@ -1,22 +1,6 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 8, '0', 'i2/#vi{') ms3.Parse.bartok_bagatelles.op06n06
-	The label 'i2/#vi{' in m. 8, onset 0 (MC 8, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
-	In the context of b.i, it expresses the scale degrees
-	('5', '#6', '1', '#3') [('F#', 'G#', 'B', 'D#')].
-	The corresponding score segment has 0 within-label and 2 out-of-label note onsets,
-	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
-	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
-	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 8, '1/2', 'V64/#vi') ms3.Parse.bartok_bagatelles.op06n06
-	The label 'V64/#vi' in m. 8, onset 1/2 (MC 8, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
-	In the context of b.i, it expresses the scale degrees
-	('#7', '#3', '#5') [('A#', 'D#', 'F##')].
-	The corresponding score segment has 0 within-label and 4 out-of-label note onsets,
-	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
-	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
-	by a free-text comment in subsequent lines starting with a space or tab.
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 12, '0', 'iio/VI/III') ms3.Parse.bartok_bagatelles.op06n06
 	The label 'iio/VI/III' in m. 12, onset 0 (MC 12, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of b.i, it expresses the scale degrees
