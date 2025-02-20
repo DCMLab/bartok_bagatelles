@@ -13207,7 +13207,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(#11)</name>
+            <name>bI.bIIM7(+b9#8)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -13296,10 +13296,6 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -13356,7 +13352,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi(9)</name>
+            <name>bVII(+#87)</name>
             </Harmony>
           <Spanner type="Trill">
             <Trill>
@@ -13458,7 +13454,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(b9)</name>
+            <name>bVI(+#87)</name>
             </Harmony>
           <Spanner type="Trill">
             <Trill>
@@ -13560,7 +13556,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2</name>
+            <name>I.IV(+#7#4)</name>
             </Harmony>
           <Spanner type="Trill">
             <Trill>
