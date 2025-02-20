@@ -174,10 +174,6 @@
         "type": "string"
       },
       {
-        "name": "Trill:trill",
-        "type": "string"
-      },
-      {
         "name": "decrescendo_hairpin",
         "type": "string"
       },
@@ -188,11 +184,15 @@
       {
         "name": "TextLine",
         "type": "string"
+      },
+      {
+        "name": "Trill:trill",
+        "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "3Urm5kkQwS6Hbg",
-    "filepath": "chords/3Urm5kkQwS6Hbg.schema.yaml",
+    "identifier": "tQg1vvdXpc46bg",
+    "filepath": "chords/tQg1vvdXpc46bg.schema.yaml",
     "used_in": "op06n09"
   },
   "creator": {
