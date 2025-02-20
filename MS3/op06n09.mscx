@@ -10336,7 +10336,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii%43</name>
+            <name>io7(+b4^bb3)</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
@@ -10455,7 +10455,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(^2)</name>
+            <name>bI.II(+b6b2)</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
@@ -10517,7 +10517,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64(^2)</name>
+            <name>iv2(+b4)</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
@@ -10579,7 +10579,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIM7(^4)</name>
+            <name>IM7(^4)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -10627,7 +10627,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>}</name>
+            <name>I}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -10661,7 +10661,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIIM7{</name>
+            <name>I.bIIM7{</name>
             </Harmony>
           <Chord>
             <dots>2</dots>
