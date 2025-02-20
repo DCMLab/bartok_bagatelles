@@ -2053,7 +2053,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I/#vi</name>
+            <name>V/bIII</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -2077,14 +2077,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(#4)/#vi</name>
+            <name>V(#4)/bIII</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i/#vi|IAC}</name>
+            <name>v/bIII|HC}</name>
             </Harmony>
           </voice>
         </Measure>
