@@ -14673,7 +14673,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6(#11)/V</name>
+            <name>I.V6(#11)/V</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -14811,7 +14811,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV(#4)/VI</name>
+            <name>ii(#4)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
