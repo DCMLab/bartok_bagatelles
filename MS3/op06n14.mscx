@@ -12996,7 +12996,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIII+</name>
+            <name>IV(#5)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -13094,7 +13094,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIII+</name>
+            <name>IV(#5)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -13192,7 +13192,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIII+</name>
+            <name>IV(#5)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -13290,7 +13290,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIII+</name>
+            <name>IV(#5)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -13388,7 +13388,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIII+}{</name>
+            <name>IV(#5)}{</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -13524,7 +13524,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIII+6</name>
+            <name>IV6(#5)</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>

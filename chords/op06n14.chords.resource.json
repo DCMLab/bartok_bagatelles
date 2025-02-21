@@ -164,11 +164,7 @@
         "type": "string"
       },
       {
-        "name": "decrescendo_hairpin",
-        "type": "string"
-      },
-      {
-        "name": "crescendo_hairpin",
+        "name": "Trill:trill",
         "type": "string"
       },
       {
@@ -176,13 +172,17 @@
         "type": "string"
       },
       {
-        "name": "Trill:trill",
+        "name": "crescendo_hairpin",
+        "type": "string"
+      },
+      {
+        "name": "decrescendo_hairpin",
         "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "gdXZHvrfL0WLZw",
-    "filepath": "chords/gdXZHvrfL0WLZw.schema.yaml",
+    "identifier": "s3fAojxMNGCCaQ",
+    "filepath": "chords/s3fAojxMNGCCaQ.schema.yaml",
     "used_in": "op06n14"
   },
   "creator": {
