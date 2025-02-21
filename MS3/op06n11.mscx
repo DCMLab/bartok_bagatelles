@@ -6348,7 +6348,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI6(4)</name>
+            <name>VI65(+4)</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -6390,7 +6390,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#iii7(11)</name>
+            <name>biv7(^b4)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -6412,7 +6412,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI6(4)</name>
+            <name>VI65(+4)</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -6454,7 +6454,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#iii7(11)</name>
+            <name>biv7(^b4)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -6483,7 +6483,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#iii7(11)</name>
+            <name>biv7(^b4)</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
