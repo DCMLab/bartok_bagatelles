@@ -1,5 +1,5 @@
 mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord	numeral	form	figbass	changes	relativeroot	cadence	phraseend	chord_type	globalkey_is_minor	localkey_is_minor	chord_tones	added_tones	root	bass_note
-1	1	0	0	6.625	0	0	6/8	2	1	c.i(#13){	c	i		i(#13)	i			#13			{	m	1	1	0, -3, 1	3	0	0
+1	1	0	0	6.625	0	0	6/8	2	1	c.i(#6){	c	i		i(#6)	i			#6			{	m	1	1	0, -3, 1	3	0	0
 2	2	53/8	53/8	1.5	0	0	6/8	2	1	#vii7(9)	c	i		#vii7(9)	#vii		7	9				mm7	1	1	5, 2, 6, 3	0	5	5
 2	2	65/8	65/8	2.5	3/8	3/8	6/8	2	1	ii%7(9)/iv	c	i		ii%7(9)/iv	ii	%	7	9	iv			%7	1	1	1, -2, -5, -1	-4	1	1
 3	3	85/8	85/8	1.5	1/4	1/4	5/8	2	1	ii%7(#9)/iv	c	i		ii%7(#9)/iv	ii	%	7	#9	iv			%7	1	1	1, -2, -5, -1	3	1	1
@@ -11,7 +11,7 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	timesi
 7	7	99/4	99/4	1.5	0	0	9/8	2	1	I/#IV	c	i		I/#IV	I				#IV			M	1	1	6, 10, 7		6	6
 7	7	105/4	105/4	1.5	3/8	3/8	9/8	2	1	IV+6	c	i		IV+6	IV	+	6					+	1	1	3, 7, -1		-1	3
 7	7	111/4	111/4	1.5	3/4	3/4	9/8	2	1	i	c	i		i	i							m	1	1	0, -3, 1		0	0
-8	8	117/4	117/4	1.5	0	0	3/8	2	1	viM7}	c	i		viM7	vi	M	7				}	mM7	1	1	-4, -7, -3, 1		-4	-4
+8	8	117/4	117/4	1.5	0	0	3/8	2	1	#v(##7)}	c	i		#v(##7)	#v			##7			}	m	1	1	8, 5, 9	13	8	8
 9	9	123/4	123/4	3.0	0	0	9/8	2	1	bIII+/#IV{	c	i		bIII+/#IV	bIII	+			#IV		{	+	1	1	3, 7, 11		3	3
 9	9	135/4	135/4	1.5	3/4	3/4	9/8	2	1	I7/#IV	c	i		I7/#IV	I		7		#IV			Mm7	1	1	6, 10, 7, 4		6	6
 10	10	141/4	141/4	3.0	0	0	9/8	2	1	bIII+/#IV	c	i		bIII+/#IV	bIII	+			#IV			+	1	1	3, 7, 11		3	3

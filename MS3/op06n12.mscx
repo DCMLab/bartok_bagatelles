@@ -9528,7 +9528,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>c.i(#13){</name>
+            <name>c.i(#6){</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -10394,7 +10394,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viM7}</name>
+            <name>#v(##7)}</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
