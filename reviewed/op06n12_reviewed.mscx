@@ -3536,7 +3536,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>32nd</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalNatural</subtype>
                 </Accidental>
@@ -3548,6 +3547,7 @@
             <BeamMode>mid</BeamMode>
             <durationType>32nd</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalNatural</subtype>
                 </Accidental>
@@ -3575,7 +3575,6 @@
                 </prev>
               </Spanner>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -3645,6 +3644,7 @@
                 </next>
               </Spanner>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>57</pitch>
               <tpc>17</tpc>
               </Note>
@@ -3653,7 +3653,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalFlat</subtype>
                 </Accidental>
@@ -11143,6 +11142,14 @@
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV(+9#54)</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
           </voice>
         <voice>
           <Rest>
@@ -11164,6 +11171,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII+6</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <Rest>
             <visible>0</visible>

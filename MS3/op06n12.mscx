@@ -10793,6 +10793,13 @@
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV(+9#54)</name>
+            </Harmony>
           </voice>
         <voice>
           <Rest>
@@ -10811,10 +10818,6 @@
             <visible>0</visible>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bII+6</name>
-            </Harmony>
           <Rest>
             <visible>0</visible>
             <durationType>eighth</durationType>
