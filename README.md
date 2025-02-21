@@ -46,7 +46,7 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License 
 |op06n11  |      87|   100|2.3.0   |Amelia Brey|DK       |
 |op06n12  |      44|    77|2.3.0   |Amelia Brey|DK       |
 |op06n13  |      26|    42|2.3.0   |Amelia Brey|DK       |
-|op06n14  |     218|   207|2.3.0   |Amelia Brey|DK       |
+|op06n14  |     218|   242|2.3.0   |Amelia Brey|DK       |
 
 
 *Overview table automatically updated using [ms3](https://ms3.readthedocs.io/).*
