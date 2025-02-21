@@ -164,11 +164,7 @@
         "type": "string"
       },
       {
-        "name": "Ottava:8va",
-        "type": "string"
-      },
-      {
-        "name": "TextLine",
+        "name": "crescendo_hairpin",
         "type": "string"
       },
       {
@@ -176,13 +172,17 @@
         "type": "string"
       },
       {
-        "name": "crescendo_hairpin",
+        "name": "Ottava:8va",
+        "type": "string"
+      },
+      {
+        "name": "TextLine",
         "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "ric_2Ft22QVyGA",
-    "filepath": "chords/ric_2Ft22QVyGA.schema.yaml",
+    "identifier": "zEZGvF6h0XfkCw",
+    "filepath": "chords/zEZGvF6h0XfkCw.schema.yaml",
     "used_in": "op06n12"
   },
   "creator": {
