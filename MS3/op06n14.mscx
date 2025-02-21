@@ -13776,7 +13776,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIII+6</name>
+            <name>IV6(#5)</name>
             </Harmony>
           </voice>
         </Measure>
@@ -13784,7 +13784,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/bV</name>
+            <name>bIII2</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -13818,7 +13818,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIII64</name>
+            <name>IV64</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
