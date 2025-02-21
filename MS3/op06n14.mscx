@@ -13999,7 +13999,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr43(b10b9)/IV</name>
+            <name>i6(#8b76)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -14062,6 +14062,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v6(9b6#4)</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -14181,6 +14185,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>#viio(b5)/ii</name>
+            </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
@@ -14215,7 +14223,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger2/bIII</name>
+            <name>V(b9#6b5)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
