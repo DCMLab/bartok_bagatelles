@@ -14434,7 +14434,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IM43</name>
+            <name>IIM7(11b9)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -14491,6 +14491,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>bVI(#94)</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -14543,7 +14547,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bvii43</name>
+            <name>i7(b9)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -14600,6 +14604,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>bvii7(#6)</name>
+            </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
