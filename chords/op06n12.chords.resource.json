@@ -168,7 +168,7 @@
         "type": "string"
       },
       {
-        "name": "crescendo_hairpin",
+        "name": "TextLine",
         "type": "string"
       },
       {
@@ -176,13 +176,13 @@
         "type": "string"
       },
       {
-        "name": "TextLine",
+        "name": "crescendo_hairpin",
         "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "yb1FZuLKV5AHHg",
-    "filepath": "chords/yb1FZuLKV5AHHg.schema.yaml",
+    "identifier": "ric_2Ft22QVyGA",
+    "filepath": "chords/ric_2Ft22QVyGA.schema.yaml",
     "used_in": "op06n12"
   },
   "creator": {

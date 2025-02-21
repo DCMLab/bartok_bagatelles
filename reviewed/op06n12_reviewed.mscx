@@ -1598,7 +1598,6 @@
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalFlat</subtype>
                 </Accidental>
@@ -1628,7 +1627,6 @@
             <BeamMode>begin</BeamMode>
             <durationType>64th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalFlat</subtype>
                 </Accidental>
@@ -1640,7 +1638,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>64th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>87</pitch>
               <tpc>11</tpc>
               </Note>
@@ -1649,7 +1646,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>64th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>85</pitch>
               <tpc>9</tpc>
               </Note>
@@ -1658,7 +1654,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>64th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>84</pitch>
               <tpc>14</tpc>
               </Note>
@@ -1667,7 +1662,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>64th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>83</pitch>
               <tpc>19</tpc>
               </Note>
@@ -1676,6 +1670,7 @@
             <BeamMode>mid</BeamMode>
             <durationType>64th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>82</pitch>
               <tpc>24</tpc>
               </Note>
@@ -1700,6 +1695,7 @@
             <BeamMode>mid</BeamMode>
             <durationType>64th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>78</pitch>
               <tpc>20</tpc>
               </Note>
@@ -10816,13 +10812,18 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I7/#IV</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iii7(+13#12b9)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalFlat</subtype>
                 </Accidental>
@@ -10830,7 +10831,6 @@
               <tpc>8</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalFlat</subtype>
                 </Accidental>
