@@ -4607,7 +4607,6 @@
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Spanner type="Tie">
                 <Tie>
                   <up>up</up>
@@ -4642,7 +4641,6 @@
               <tpc>22</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -4689,7 +4687,6 @@
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -4708,7 +4705,6 @@
               <tpc>20</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -4758,7 +4754,6 @@
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -4784,7 +4779,6 @@
               <tpc>22</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -4816,7 +4810,6 @@
                 </next>
               </Spanner>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -4825,7 +4818,6 @@
               </Note>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -4833,7 +4825,6 @@
               <tpc>24</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -4866,7 +4857,6 @@
               <tpc>26</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -4907,7 +4897,6 @@
               <offset x="0" y="0.8"/>
               </Articulation>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalNatural</subtype>
                 </Accidental>
@@ -4915,7 +4904,6 @@
               <tpc>17</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -4935,7 +4923,6 @@
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Spanner type="Tie">
                 <Tie>
                   <up>up</up>
@@ -4951,6 +4938,7 @@
               <tpc>18</tpc>
               </Note>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Spanner type="Tie">
                 <Tie>
                   <up>up</up>
@@ -4966,7 +4954,6 @@
               <tpc>22</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <role>1</role>
                 <subtype>accidentalSharp</subtype>
@@ -4996,7 +4983,6 @@
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -5009,7 +4995,6 @@
               <tpc>20</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -5037,7 +5022,6 @@
                 </next>
               </Spanner>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -5045,7 +5029,6 @@
               <tpc>22</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -5057,7 +5040,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -5065,7 +5047,6 @@
               <tpc>24</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalDoubleSharp</subtype>
                 </Accidental>
@@ -5083,7 +5064,6 @@
               <subtype>articAccentBelow</subtype>
               </Articulation>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalNatural</subtype>
                 </Accidental>
@@ -5121,7 +5101,6 @@
               <tpc>20</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <role>1</role>
                 <subtype>accidentalSharp</subtype>
@@ -5189,7 +5168,6 @@
                 </prev>
               </Spanner>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -5202,6 +5180,7 @@
               <tpc>18</tpc>
               </Note>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -5214,7 +5193,6 @@
               <tpc>22</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -5351,7 +5329,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalNatural</subtype>
                 </Accidental>
@@ -5359,7 +5336,6 @@
               <tpc>13</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <role>1</role>
                 <subtype>accidentalNatural</subtype>
@@ -5368,7 +5344,6 @@
               <tpc>17</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalNatural</subtype>
                 </Accidental>
@@ -5387,7 +5362,6 @@
                 </prev>
               </Spanner>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
@@ -5401,7 +5375,6 @@
               <tpc>22</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <role>1</role>
                 <subtype>accidentalSharp</subtype>
@@ -5462,7 +5435,6 @@
               <tpc>20</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -5549,7 +5521,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalNatural</subtype>
                 </Accidental>
@@ -5576,7 +5547,6 @@
                 </prev>
               </Spanner>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -5584,7 +5554,6 @@
               <tpc>20</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <role>1</role>
                 <subtype>accidentalSharp</subtype>
@@ -5655,12 +5624,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="4.24112"/>
-                <off2 x="0" y="0"/>
-                <minDistance>1.38643e-15</minDistance>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -5782,11 +5745,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="4.24772"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -6216,12 +6174,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="3.34483"/>
-                <off2 x="0" y="0"/>
-                <minDistance>-0.3</minDistance>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -7287,11 +7239,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="2"/>
-                <off2 x="0.131309" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -7421,11 +7368,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="2"/>
-                <off2 x="0.131309" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -7896,9 +7838,6 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o3 x="2.81854" y="-0.939513"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -8123,13 +8062,6 @@
                   <o2 x="-0.617764" y="0.310335"/>
                   <o3 x="-1.51461" y="-0.566517"/>
                   <o4 x="-0.748761" y="-0.646263"/>
-                  </SlurSegment>
-                <SlurSegment no="1">
-                  <o1 x="0.313171" y="-1.0961"/>
-                  <o3 x="1.40927" y="-3.13171"/>
-                  <o4 x="0.313171" y="1.56586"/>
-                  <autoplace>0</autoplace>
-                  <offset x="0.156586" y="-1.87903"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
@@ -9252,12 +9184,6 @@
               <endHookType>2</endHookType>
               <diagonal>1</diagonal>
               <lineWidth>0.1488</lineWidth>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="1.74485" y="0.690349"/>
-                <off2 x="-1.66347" y="9.02402"/>
-                <autoplace>0</autoplace>
-                </Segment>
               </TextLine>
             <next>
               <location>
@@ -9301,12 +9227,6 @@
             <TextLine>
               <placement>below</placement>
               <diagonal>1</diagonal>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="1.77851" y="1.7481"/>
-                <off2 x="-3.34688" y="5.12942"/>
-                <autoplace>0</autoplace>
-                </Segment>
               </TextLine>
             <next>
               <location>
@@ -9318,12 +9238,6 @@
             <TextLine>
               <placement>below</placement>
               <diagonal>1</diagonal>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="1.77557" y="1.70499"/>
-                <off2 x="-1.96294" y="-1.18371"/>
-                <autoplace>0</autoplace>
-                </Segment>
               </TextLine>
             <next>
               <location>
@@ -11419,6 +11333,12 @@
             <name>keyboardPedalPed</name>
             <offset x="0.1025" y="11.6669"/>
             </Symbol>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>#IV.iii[I7(#9)</name>
+            <color r="0" g="85" b="0" a="255"/>
+            <offset x="-0.593817" y="11.5886"/>
+            </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
@@ -11466,7 +11386,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#vi[#I7(#10#9)/#IV</name>
-            <offset x="0" y="10.1374"/>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -11530,11 +11450,41 @@
               </Note>
             </Chord>
           <location>
-            <fractions>-1/16</fractions>
+            <fractions>-5/16</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>II7(#9)</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>III7(#9)</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
+          <location>
+            <fractions>1/16</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV7(9)</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
+          <location>
+            <fractions>1/16</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#I7(#10#9)/#IV</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I7(#9)</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="10.1374"/>
             </Harmony>
           <location>
@@ -11647,6 +11597,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>II7(#9)/#IV</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -11663,6 +11614,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>III7(#9)/#IV</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -11671,6 +11623,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV7(9)/#IV</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -11726,6 +11679,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>II7(#9)/#IV</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>II7(#9)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -11733,6 +11692,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>III7(#9)/#IV</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>III7(#9)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
@@ -11740,6 +11705,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV7(9)/#IV</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV7(9)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -11767,11 +11738,25 @@
               </Note>
             </Chord>
           <location>
-            <fractions>-1/16</fractions>
+            <fractions>-1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7(9)/bV</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
+          <location>
+            <fractions>1/16</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#I7(#10#9)/#IV]}</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I7(#10#9)]}</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="10.1374"/>
             </Harmony>
           <location>
@@ -11918,6 +11903,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7(9)</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -11941,6 +11927,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IM65{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i.IM65{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -12251,11 +12243,6 @@
             <HairPin>
               <subtype>1</subtype>
               <placement>above</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-2"/>
-                <off2 x="0.697511" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -13035,12 +13022,6 @@
             <TextLine>
               <endHookType>2</endHookType>
               <diagonal>1</diagonal>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="1.45793" y="-7.25583"/>
-                <off2 x="-1.98397" y="8.69173"/>
-                <autoplace>0</autoplace>
-                </Segment>
               </TextLine>
             <next>
               <location>
