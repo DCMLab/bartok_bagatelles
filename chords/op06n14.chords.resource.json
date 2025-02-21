@@ -164,11 +164,11 @@
         "type": "string"
       },
       {
-        "name": "Trill:trill",
+        "name": "Ottava:8va",
         "type": "string"
       },
       {
-        "name": "Ottava:8va",
+        "name": "Trill:trill",
         "type": "string"
       },
       {
@@ -181,8 +181,8 @@
       }
     ],
     "facet": "chords",
-    "identifier": "s3fAojxMNGCCaQ",
-    "filepath": "chords/s3fAojxMNGCCaQ.schema.yaml",
+    "identifier": "fOnsPCIe0Y8D7w",
+    "filepath": "chords/fOnsPCIe0Y8D7w.schema.yaml",
     "used_in": "op06n14"
   },
   "creator": {

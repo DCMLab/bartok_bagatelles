@@ -13449,7 +13449,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bV+</name>
+            <name>bVI(#5)</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -13498,7 +13498,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVI+64</name>
+            <name>bVII(#5)</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
