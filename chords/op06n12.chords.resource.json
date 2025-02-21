@@ -164,7 +164,11 @@
         "description": "IDs of active slurs that a chord falls under, as a tuple of integers."
       },
       {
-        "name": "crescendo_hairpin",
+        "name": "TextLine",
+        "type": "string"
+      },
+      {
+        "name": "Ottava:8va",
         "type": "string"
       },
       {
@@ -172,17 +176,13 @@
         "type": "string"
       },
       {
-        "name": "TextLine",
-        "type": "string"
-      },
-      {
-        "name": "Ottava:8va",
+        "name": "crescendo_hairpin",
         "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "uReNKYo_V33iEQ",
-    "filepath": "chords/uReNKYo_V33iEQ.schema.yaml",
+    "identifier": "HQvhxxaeb6tUhA",
+    "filepath": "chords/HQvhxxaeb6tUhA.schema.yaml",
     "used_in": "op06n12"
   },
   "creator": {
