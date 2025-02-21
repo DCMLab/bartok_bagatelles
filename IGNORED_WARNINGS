@@ -25,3 +25,5 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 11, '0', 'VM43') ms3.Parse.bar
 	('2', '#4', '5', '7') [('C#', 'E#', 'F#', 'A#')].
 	See comment above for m.9 as to enharmonic tones
 
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 31, '3/4', '#i') ms3.Parse.bartok_bagatelles.op06n12
+	The label '#i' in m. 31, onset 3/4 (MC 31, onset 3/4) could be according to how the annotator saw the previous passing tones. The label is debatable though, because equally important could be the B and D notes.
