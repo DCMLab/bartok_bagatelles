@@ -13616,7 +13616,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIIM7(4)</name>
+            <name>ii(b9)</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -13629,7 +13629,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bV7(4)</name>
+            <name>#iv(#9)</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
