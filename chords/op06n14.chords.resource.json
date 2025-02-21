@@ -164,11 +164,11 @@
         "type": "string"
       },
       {
-        "name": "Trill:trill",
+        "name": "Ottava:8va",
         "type": "string"
       },
       {
-        "name": "crescendo_hairpin",
+        "name": "Trill:trill",
         "type": "string"
       },
       {
@@ -176,13 +176,13 @@
         "type": "string"
       },
       {
-        "name": "Ottava:8va",
+        "name": "crescendo_hairpin",
         "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "fmxVltEMtFVomQ",
-    "filepath": "chords/fmxVltEMtFVomQ.schema.yaml",
+    "identifier": "Ltt6RyrrnkP0QA",
+    "filepath": "chords/Ltt6RyrrnkP0QA.schema.yaml",
     "used_in": "op06n14"
   },
   "creator": {
@@ -196,5 +196,7 @@
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
     "softwareVersion": "2.5.3"
-  }
+  },
+  "git_revision": "4fd40db2844a60a4c3b6f1f922ac09542c9b1ec5",
+  "git_tag": "v2.1-95-g4fd40db"
 }

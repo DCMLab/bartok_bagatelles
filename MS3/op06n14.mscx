@@ -13842,7 +13842,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/vi</name>
+            <name>#IV(7)</name>
             </Harmony>
           </voice>
         </Measure>
@@ -13850,7 +13850,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII+</name>
+            <name>bIII(#5)</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -13862,7 +13862,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IIM2</name>
+            <name>bIII(#7)</name>
             </Harmony>
           </voice>
         </Measure>
@@ -13893,7 +13893,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64/V</name>
+            <name>III64</name>
             </Harmony>
           </voice>
         </Measure>
@@ -13901,7 +13901,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bV(11)</name>
+            <name>ii7(^b5)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -13933,6 +13933,8 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII+6(11)</name>
+            <minDistance>0.42387</minDistance>
+            <offset x="0.0761304" y="5.06094"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
