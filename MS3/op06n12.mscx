@@ -10575,7 +10575,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V+(6)</name>
+            <name>I.iiiM7(#13#11#9)</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -10635,7 +10635,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V+(6)</name>
+            <name>iiiM7</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -10695,7 +10695,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(#6)}{</name>
+            <name>iii6}</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -10713,13 +10713,13 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>III(+#76#4){</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -10728,7 +10728,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#i6</name>
+            <name>i.#i6</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
