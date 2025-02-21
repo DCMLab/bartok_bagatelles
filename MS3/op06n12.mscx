@@ -10787,7 +10787,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#VI6(9)</name>
+            <name>#v(+#22)</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
