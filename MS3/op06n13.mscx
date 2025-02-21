@@ -4624,7 +4624,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iM7(b9)</name>
+            <name>#iv(+b9)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>

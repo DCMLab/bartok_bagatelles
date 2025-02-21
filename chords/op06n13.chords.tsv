@@ -1,5 +1,5 @@
 mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	timesig	staff	voice	duration	nominal_duration	scalar	chord_id	dynamics	articulation	staff_text	tempo	qpm	metronome_base	metronome_number	tempo_visible	slur	decrescendo_hairpin	crescendo_hairpin
-1	1	0	0	0.0	0	0	Tempo	4/4	1	1	0							Lentofunebre𝅘𝅥=60-72	60.0			1.0			
+1	1	0	0	0.0	0	0	Tempo	4/4	1	1	0							Lentofunebre𝅘𝅥=60-72	60.0			0.0			
 1	1	1	1	0.0	1/4	1/4	Dynamic	4/4	2	1	0				pp										
 1	1	1	1	0.25	1/4	1/4	Chord	4/4	2	1	1/16	1/16	1	0		articAccentBelow									
 1	1	5/4	5/4	0.75	5/16	5/16	Chord	4/4	2	1	3/16	1/8	3/2	1											
