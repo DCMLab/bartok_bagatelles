@@ -1537,7 +1537,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>64th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -10791,6 +10790,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bIII+/#IV{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>III+(+9#8#7)/IV{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <dots>1</dots>
