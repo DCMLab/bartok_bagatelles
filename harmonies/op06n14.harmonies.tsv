@@ -15,7 +15,7 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	timesi
 14	14	39/2	39/2	1.5	0	0	3/8	2	1	V(#13#9)/vi	D	I		V(#13#9)/vi		V			#13#9	vi			M	0	0	4, 8, 5	7, 6	4	4
 15	15	21	21	1.5	0	0	3/8	2	1	IVM65	D	I		IVM65		IV	M	65					MM7	0	0	3, 0, 4, -1		-1	3
 16	16	45/2	45/2	1.5	0	0	3/8	2	1	V(#13#9)/vi	D	I		V(#13#9)/vi		V			#13#9	vi			M	0	0	4, 8, 5	7, 6	4	4
-17	17	24	24	1.0	0	0	3/4	2	1	V7(b6)/bII	D	I		V7(b6)/bII		V		7	b6	bII			Mm7	0	0	-4, 0, -8, -6		-4	-4
+17	17	24	24	1.0	0	0	3/4	2	1	V(^#6#5)/bII	D	I		V(^#6#5)/bII		V			^#6#5	bII			M	0	0	-4, 0, 4	6	-4	-4
 17	17	25	25	2.0	1/4	1/4	3/4	2	1	V7/bII	D	I		V7/bII		V		7		bII			Mm7	0	0	-4, 0, -3, -6		-4	-4
 18	18	27	27	16.5	0	0	3/8	2	1	Fr65(9)/IV|EC	D	I		Fr65(9)/IV	Fr	V		65	9b5	V/IV	EC		Fr	0	0	5, -5, -1, 1	3	1	5
 29	29	87/2	87/2	1.5	0	0	3/8	2	1	bVII.I}{	D	bVII		I		I						}{	M	0	0	0, 4, 1		0	0

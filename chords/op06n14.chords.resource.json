@@ -172,17 +172,17 @@
         "type": "string"
       },
       {
-        "name": "Trill:trill",
+        "name": "Ottava:8va",
         "type": "string"
       },
       {
-        "name": "Ottava:8va",
+        "name": "Trill:trill",
         "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "DHeF5khtgfkmyg",
-    "filepath": "chords/DHeF5khtgfkmyg.schema.yaml",
+    "identifier": "gdXZHvrfL0WLZw",
+    "filepath": "chords/gdXZHvrfL0WLZw.schema.yaml",
     "used_in": "op06n14"
   },
   "creator": {
@@ -196,7 +196,5 @@
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
     "softwareVersion": "2.5.3"
-  },
-  "git_revision": "0f2f2152dbdc9e745f757ded7e9729f93e602312",
-  "git_tag": "v2.1-1-g0f2f215"
+  }
 }
