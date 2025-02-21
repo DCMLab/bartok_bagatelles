@@ -164,7 +164,7 @@
         "type": "string"
       },
       {
-        "name": "Trill:trill",
+        "name": "crescendo_hairpin",
         "type": "string"
       },
       {
@@ -172,17 +172,17 @@
         "type": "string"
       },
       {
-        "name": "crescendo_hairpin",
+        "name": "Ottava:8va",
         "type": "string"
       },
       {
-        "name": "Ottava:8va",
+        "name": "Trill:trill",
         "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "5Im9orQGGjtPFA",
-    "filepath": "chords/5Im9orQGGjtPFA.schema.yaml",
+    "identifier": "-mSPyE4FmxF7wg",
+    "filepath": "chords/-mSPyE4FmxF7wg.schema.yaml",
     "used_in": "op06n14"
   },
   "creator": {

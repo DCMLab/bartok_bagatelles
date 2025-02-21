@@ -108,7 +108,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	offset_x	offset_y	minDistance	
 109	109	0	0	3/8	2	1	vi/VI					D	I		vi/VI		vi				VI			m	0	0	8, 5, 9		8	8	1	4	0.2	0.125	0.875	0.125
 110	110	0	0	3/8	2	1	vii%7/VI					D	I		vii%7/VI		vii	%	7		VI			%7	0	0	10, 7, 4, 8		10	10	2	3	0.4	0.5	0.5	0.5
 110	110	1/4	1/4	3/8	2	1	i/VI					D	I		i/VI		i				VI			m	0	0	5, 2, 6		5	5	2	2	0.5	0.5	0.25	0.6666666666666666
-111	111	1/8	1/8	3/8	2	1	V/V/VI					D	I		V/V/VI		V				V/VI			M	0	0	7, 11, 8		7	7	2	1	0.6666666666666666	0.25	0.25	0.5
+111	111	1/8	1/8	3/8	2	1	viio(#10)/VI					D	I		viio(#10)/VI		vii	o		#10	VI			o	0	0	10, 7, 4	14	10	10	0	3	0.0	0.0	0.5	0.0
 112	112	0	0	3/8	2	1	V2/iii/VI					D	I		V2/iii/VI		V		2		iii/VI			Mm7	0	0	8, 10, 14, 11		10	8	2	3	0.4	0.5	0.5	0.5
 112	112	1/4	1/4	3/8	2	1	I/VI					D	I		I/VI		I				VI			M	0	0	5, 9, 6		5	5	0	5	0.0	0.0	1.125	0.0
 113	113	1/4	1/4	3/8	2	1	vi/VI					D	I		vi/VI		vi				VI			m	0	0	8, 5, 9		8	8	0	1	0.0	0.0	0.125	0.0
