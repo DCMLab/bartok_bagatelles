@@ -15270,7 +15270,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i/bIII</name>
+            <name>viio(9b54)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -15291,7 +15291,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>}{</name>
+            <name>}</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -15317,7 +15317,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio2/bVII</name>
+            <name>viio2/bVII{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
