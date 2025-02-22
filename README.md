@@ -33,7 +33,7 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License 
 ## Overview
 |file_name|measures|labels|standard|annotators |reviewers|
 |---------|-------:|-----:|--------|-----------|---------|
-|op06n01  |      18|    25|2.3.0   |Amelia Brey|JH       |
+|op06n01  |      18|    28|2.3.0   |Amelia Brey|JH       |
 |op06n02  |      30|    57|2.3.0   |Amelia Brey|JH       |
 |op06n03  |      24|    32|2.3.0   |Amelia Brey|DK       |
 |op06n04  |      12|    42|2.3.0   |Amelia Brey|DK       |
