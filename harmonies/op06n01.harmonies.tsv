@@ -9,7 +9,7 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	timesi
 8	8	28	28	2.0	0	0	4/4	2	1	III.IVM7	c#	III		IVM7	IV	M	7					MM7	1	0	-1, 3, 0, 4		-1	-1
 8	8	30	30	2.0	1/2	1/2	4/4	2	1	I|PC}	c#	III		I	I					PC	}	M	1	0	0, 4, 1		0	0
 9	9	32	32	4.0	0	0	4/4	2	2	io65{	c#	III		io65	i	o	65				{	o7	1	0	-3, -6, -9, 0		0	-3
-10	10	36	36	2.0	0	0	4/4	2	1	V65/vi	c#	III		V65/vi	V		65		vi			Mm7	1	0	8, 5, 2, 4		4	8
+10	10	36	36	2.0	0	0	4/4	2	1	bVI(#5)	c#	III		bVI(#5)	bVI			#5				M	1	0	-4, 0, 4		-4	-4
 10	10	38	38	2.0	1/2	1/2	4/4	2	1	V(9)	c#	III		V(9)	V			9				M	1	0	1, 5, 2	3	1	1
 11	11	40	40	4.0	0	0	4/4	2	1	io65	c#	III		io65	i	o	65					o7	1	0	-3, -6, -9, 0		0	-3
 12	12	44	44	2.0	0	0	4/4	2	1	iv6	c#	III		iv6	iv		6					m	1	0	-4, 0, -1		-1	-4
