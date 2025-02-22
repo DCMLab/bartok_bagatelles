@@ -2129,7 +2129,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#III(b5)</name>
+            <name>biv(+b4)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -2215,7 +2215,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#III</name>
+            <name>biv(+#5#4)</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
