@@ -18504,7 +18504,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IVM7/bIII{</name>
+            <name>bVII.IM7{</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -18516,7 +18516,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%7/II</name>
+            <name>#i.iM7</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -18601,7 +18601,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IVM7</name>
+            <name>bVII.VM7</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -18613,7 +18613,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVIM7</name>
+            <name>I.bVIM7</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -18795,7 +18795,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%7/iii</name>
+            <name>ivM7/bVII</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -19030,10 +19030,6 @@
               </Note>
             </Chord>
           <endTuplet/>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vii%7/ii</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -19052,6 +19048,10 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>#i(#7)</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -19119,7 +19119,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IIIM7</name>
+            <name>bivM7</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -19225,7 +19225,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%7/vi</name>
+            <name>#vii%7/vi</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -19398,7 +19398,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%7/vi</name>
+            <name>#vii%7/vi</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
