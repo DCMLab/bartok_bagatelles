@@ -168,11 +168,11 @@
         "type": "string"
       },
       {
-        "name": "decrescendo_hairpin",
+        "name": "crescendo_hairpin",
         "type": "string"
       },
       {
-        "name": "crescendo_hairpin",
+        "name": "decrescendo_hairpin",
         "type": "string"
       },
       {
@@ -181,8 +181,8 @@
       }
     ],
     "facet": "chords",
-    "identifier": "aZnqVdKWcVO6Aw",
-    "filepath": "chords/aZnqVdKWcVO6Aw.schema.yaml",
+    "identifier": "9o2pxiUMSi7kLw",
+    "filepath": "chords/9o2pxiUMSi7kLw.schema.yaml",
     "used_in": "op06n14"
   },
   "creator": {
@@ -196,5 +196,7 @@
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
     "softwareVersion": "2.5.3"
-  }
+  },
+  "git_revision": "2a4220058e521d5a3ce5f8fbd70aa9e44f9fc73b",
+  "git_tag": "v2.1-113-g2a42200"
 }
