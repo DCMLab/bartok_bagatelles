@@ -11,7 +11,7 @@
       "delimiter": "\t"
     }
   },
-  "schema": "https://raw.githubusercontent.com/DCMLab/frictionless_schemas/main/harmonies/WYVXgymr3VnUkA.schema.yaml",
+  "schema": "https://raw.githubusercontent.com/DCMLab/frictionless_schemas/main/harmonies/30MdM515E-w_JQ.schema.yaml",
   "creator": {
     "@context": "https://schema.org/",
     "@type": "SoftwareApplication",
@@ -22,8 +22,8 @@
       "name": "Johannes Hentschel",
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
-    "softwareVersion": "2.5.2"
+    "softwareVersion": "2.5.3"
   },
-  "git_revision": "0e7515e3c432df6f1ebae882f1731ce3c2b1ab1d",
-  "git_tag": "v2.0-13-g0e7515e"
+  "git_revision": "2a4220058e521d5a3ce5f8fbd70aa9e44f9fc73b",
+  "git_tag": "v2.1-113-g2a42200"
 }

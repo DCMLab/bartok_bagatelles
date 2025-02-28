@@ -118,7 +118,6 @@
         <maxPitchA>108</maxPitchA>
         <instrumentId>keyboard.piano</instrumentId>
         <clef staff="2">F</clef>
-        <singleNoteDynamics>0</singleNoteDynamics>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>95</gateTime>
@@ -160,6 +159,10 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="harmony">
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
@@ -4419,7 +4422,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV64(13)</name>
+            <name>#IM7(+8)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -5078,7 +5081,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6(+14+13)</name>
+            <name>V65(+b8+7)/#III</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -5110,7 +5113,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bii6</name>
+            <name>#i6</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -5162,7 +5165,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6(+14+13)</name>
+            <name>V65(+b8+7)/#III</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -5194,7 +5197,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bii6</name>
+            <name>#i6</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -5239,7 +5242,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6(+14+13)</name>
+            <name>V65(+b8+7)/#III</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -5277,7 +5280,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bii6</name>
+            <name>#i6</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>

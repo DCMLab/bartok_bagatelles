@@ -109,6 +109,7 @@
       <trackName>Piano</trackName>
       <Instrument id="piano">
         <longName>Piano</longName>
+        <shortName>Pno.</shortName>
         <trackName>Piano</trackName>
         <minPitchP>21</minPitchP>
         <maxPitchP>108</maxPitchP>
@@ -116,7 +117,6 @@
         <maxPitchA>108</maxPitchA>
         <instrumentId>keyboard.piano</instrumentId>
         <clef staff="2">F</clef>
-        <singleNoteDynamics>0</singleNoteDynamics>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>95</gateTime>
@@ -163,7 +163,12 @@
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
           </Channel>
-        <shortName>Pno.</shortName>
+        <Channel name="harmony">
+          <program value="0"/>
+          <controller ctrl="7" value="101"/>
+          <controller ctrl="10" value="63"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
@@ -195,6 +200,7 @@
           <Tempo>
             <tempo>1.8666666666666667</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <offset x="0" y="-5.64102"/>
             <text><font size="12"></font><b>Allegretto molto rubato </b><sym>metNoteHalfUp</sym> = 56</text>
             </Tempo>
@@ -1009,7 +1015,7 @@
       <Measure>
         <voice>
           <SystemText>
-            <swing unit="" ratio="60"/>
+            <swing unit="" ratio= "60"/>
             <style>Tempo</style>
             <minDistance>0.454215</minDistance>
             <size>24</size>
@@ -1149,7 +1155,7 @@
       <Measure>
         <voice>
           <SystemText>
-            <swing unit="" ratio="60"/>
+            <swing unit="" ratio= "60"/>
             <style>Tempo</style>
             <minDistance>0.249981</minDistance>
             <size>24</size>
@@ -3832,7 +3838,7 @@
       <Measure>
         <voice>
           <SystemText>
-            <swing unit="" ratio="60"/>
+            <swing unit="" ratio= "60"/>
             <style>Tempo</style>
             <size>24</size>
             <offset x="-3.72846" y="-0.587167"/>
@@ -4006,7 +4012,7 @@
               </Note>
             </Chord>
           <SystemText>
-            <swing unit="" ratio="60"/>
+            <swing unit="" ratio= "60"/>
             <style>Tempo</style>
             <size>24</size>
             <offset x="2.58277" y="-0.667113"/>
@@ -4724,7 +4730,7 @@
             <text><font size="12"></font><b>Tempo I</b></text>
             </StaffText>
           <SystemText>
-            <swing unit="" ratio="60"/>
+            <swing unit="" ratio= "60"/>
             <style>Tempo</style>
             <minDistance>-999</minDistance>
             <size>24</size>
@@ -4869,7 +4875,7 @@
       <Measure>
         <voice>
           <SystemText>
-            <swing unit="" ratio="60"/>
+            <swing unit="" ratio= "60"/>
             <style>Tempo</style>
             <minDistance>-999</minDistance>
             <size>24</size>
@@ -4999,7 +5005,7 @@
       <Measure>
         <voice>
           <SystemText>
-            <swing unit="" ratio="60"/>
+            <swing unit="" ratio= "60"/>
             <style>Tempo</style>
             <minDistance>-999</minDistance>
             <size>24</size>
@@ -6075,7 +6081,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64(#13)</name>
+            <name>bvii2</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -6139,7 +6145,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64(#13)</name>
+            <name>bvii2</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -6278,7 +6284,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI6(4)</name>
+            <name>VI65(+4)</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -6320,7 +6326,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#iii7(11)</name>
+            <name>biv7(^b4)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -6342,7 +6348,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI6(4)</name>
+            <name>VI65(+4)</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -6384,7 +6390,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#iii7(11)</name>
+            <name>biv7(^b4)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -6406,7 +6412,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI6(4)</name>
+            <name>VI65(+4)</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -6448,7 +6454,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#iii7(11)</name>
+            <name>biv7(^b4)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -6477,7 +6483,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#iii7(11)</name>
+            <name>biv7(^b4)</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -6500,7 +6506,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(139)</name>
+            <name>I(+b13b10b6)</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -6614,7 +6620,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64(#13)|HC}</name>
+            <name>biv2}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -7122,7 +7128,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI(b13b9)</name>
+            <name>VIM7(#13#11#5)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -8332,7 +8338,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio65(9)/ii</name>
+            <name>#viio7(+b9b8#6)/iv</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -8553,7 +8559,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr43/iv</name>
+            <name>i7(^b54)</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -9045,7 +9051,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(139)</name>
+            <name>biv(b4)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -9109,7 +9115,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(139)</name>
+            <name>biv(b4)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -9138,7 +9144,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v7(134)</name>
+            <name>bivM7(+#8+#4+b4)</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -9248,7 +9254,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI6(4)</name>
+            <name>VI65(+4)</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -9378,7 +9384,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%43/V</name>
+            <name>V(6)/bIII</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -9442,7 +9448,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%43/V</name>
+            <name>V(6)/bIII</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -9506,7 +9512,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%43/V</name>
+            <name>V(6)/bIII</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -9621,7 +9627,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr65/bI</name>
+            <name>VI7(^b5)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -9644,7 +9650,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI[vii%43/V]}</name>
+            <name>vii%7(+9)/bVI}</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>

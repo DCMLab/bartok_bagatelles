@@ -109,6 +109,7 @@
       <trackName>Piano</trackName>
       <Instrument id="piano">
         <longName>Piano</longName>
+        <shortName>Pno.</shortName>
         <trackName>Piano</trackName>
         <minPitchP>21</minPitchP>
         <maxPitchP>108</maxPitchP>
@@ -116,7 +117,6 @@
         <maxPitchA>108</maxPitchA>
         <instrumentId>keyboard.piano</instrumentId>
         <clef staff="2">F</clef>
-        <singleNoteDynamics>0</singleNoteDynamics>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>95</gateTime>
@@ -163,7 +163,12 @@
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
           </Channel>
-        <shortName>Pno.</shortName>
+        <Channel name="harmony">
+          <program value="0"/>
+          <controller ctrl="7" value="101"/>
+          <controller ctrl="10" value="63"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
@@ -195,6 +200,7 @@
           <Tempo>
             <tempo>1.1499999999999999</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <text><font size="12"></font><b>Lento  </b><sym>metNoteQuarterUp</sym> = 69</text>
             </Tempo>
           <Dynamic>
@@ -1834,7 +1840,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>b.Fr43/iv</name>
+            <name>b.Fr43/iv{</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -2024,7 +2030,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64/#vi</name>
+            <name>bIV64(+9)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -2047,7 +2053,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I/#vi</name>
+            <name>V/bIII</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -2071,14 +2077,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(#4)/#vi</name>
+            <name>V(#4)/bIII</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i/#vi|IAC}</name>
+            <name>v/bIII|HC}</name>
             </Harmony>
           </voice>
         </Measure>
@@ -2090,7 +2096,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i2/#vi{</name>
+            <name>V2/bIII{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2127,7 +2133,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64/#vi</name>
+            <name>bIV</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2304,7 +2310,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio/VI/III</name>
+            <name>biv2(^b6)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2434,7 +2440,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII7(9)/bV</name>
+            <name>IV(+9)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2522,7 +2528,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IVM2/bVII</name>
+            <name>III(+#7)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2537,7 +2543,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIII+/bVII</name>
+            <name>IV(+b6)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2590,7 +2596,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr7(11)/bVII</name>
+            <name>VI7(+9^#54)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>

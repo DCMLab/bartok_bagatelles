@@ -1,5 +1,5 @@
 mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	timesig	staff	voice	label	alt_label	globalkey	localkey	pedal	chord	special	numeral	form	figbass	changes	relativeroot	cadence	phraseend	chord_type	globalkey_is_minor	localkey_is_minor	chord_tones	added_tones	root	bass_note
-1	1	0	0	4.0	0	0	2/2	2	1	b.Fr43/iv		b	i		Fr43/iv	Fr	V		43	b5	V/iv			Fr	1	1	-5, -1, 1, 5		1	-5
+1	1	0	0	4.0	0	0	2/2	2	1	b.Fr43/iv{		b	i		Fr43/iv	Fr	V		43	b5	V/iv		{	Fr	1	1	-5, -1, 1, 5		1	-5
 2	2	4	4	1.0	0	0	2/2	2	1	I		b	i		I		I							M	1	1	0, 4, 1		0	0
 2	2	5	5	1.0	1/4	1/4	2/2	2	1	I(#4)		b	i		I(#4)		I			#4				M	1	1	0, 4, 6		0	0
 2	2	6	6	2.0	1/2	1/2	2/2	2	1	i		b	i		i		i							m	1	1	0, -3, 1		0	0
@@ -10,27 +10,27 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	timesi
 5	5	16	16	2.0	0	0	2/2	2	1	VI64		b	i		VI64		VI		64					M	1	1	-3, -4, 0		-4	-3
 5	5	18	18	2.0	1/2	1/2	2/2	2	1	v64		b	i		v64		v		64					m	1	1	2, 1, -2		1	2
 6	6	20	20	2.0	0	0	2/2	2	1	I64/bV		b	i		I64/bV		I		64		bV			M	1	1	-5, -6, -2		-6	-5
-6	6	22	22	2.0	1/2	1/2	2/2	2	1	V64/#vi		b	i		V64/#vi		V		64		#vi			M	1	1	5, 4, 8		4	5
-7	7	24	24	1.0	0	0	2/2	2	1	I/#vi		b	i		I/#vi		I				#vi			M	1	1	3, 7, 4		3	3
-7	7	25	25	1.0	1/4	1/4	2/2	2	1	I(#4)/#vi		b	i		I(#4)/#vi		I			#4	#vi			M	1	1	3, 7, 9		3	3
-7	7	26	26	2.0	1/2	1/2	2/2	2	1	i/#vi|IAC}		b	i		i/#vi		i				#vi	IAC	}	m	1	1	3, 0, 4		3	3
-8	8	28	28	2.0	0	0	2/2	2	1	i2/#vi{		b	i		i2/#vi		i		2		#vi		{	mm7	1	1	1, 3, 0, 4		3	1
-8	8	30	30	2.0	1/2	1/2	2/2	2	1	V64/#vi		b	i		V64/#vi		V		64		#vi			M	1	1	5, 4, 8		4	5
+6	6	22	22	2.0	1/2	1/2	2/2	2	1	bIV64(+9)		b	i		bIV64(+9)		bIV		64	+9				M	1	1	-7, -8, -4	1	-8	-7
+7	7	24	24	1.0	0	0	2/2	2	1	V/bIII		b	i		V/bIII		V				bIII			M	1	1	-9, -5, -8		-9	-9
+7	7	25	25	1.0	1/4	1/4	2/2	2	1	V(#4)/bIII		b	i		V(#4)/bIII		V			#4	bIII			M	1	1	-9, -5, -3		-9	-9
+7	7	26	26	2.0	1/2	1/2	2/2	2	1	v/bIII|HC}		b	i		v/bIII		v				bIII	HC	}	m	1	1	-9, -12, -8		-9	-9
+8	8	28	28	2.0	0	0	2/2	2	1	V2/bIII{		b	i		V2/bIII		V		2		bIII		{	Mm7	1	1	-11, -9, -5, -8		-9	-11
+8	8	30	30	2.0	1/2	1/2	2/2	2	1	bIV		b	i		bIV		bIV							M	1	1	-8, -4, -7		-8	-8
 9	9	32	32	2.0	0	0	2/2	2	1	I64(119)/bV		b	i		I64(119)/bV		I		64	119	bV			M	1	1	-5, -6, -2	-7, -4	-6	-5
 9	9	34	34	2.0	1/2	1/2	2/2	2	1	viio7/bII		b	i		viio7/bII		vii	o	7		bII			o7	1	1	0, -3, -6, -9		0	0
 10	10	36	36	2.0	0	0	2/2	2	1	i2/bII		b	i		i2/bII		i		2		bII			mm7	1	1	-7, -5, -8, -4		-5	-7
 10	10	38	38	2.0	1/2	1/2	2/2	2	1	VI64(11)		b	i		VI64(11)		VI		64	11				M	1	1	-3, -4, 0	2	-4	-3
 11	11	40	40	2.0	0	0	2/2	2	1	VII64(9)		b	i		VII64(9)		VII		64	9				M	1	1	-1, -2, 2	0	-2	-1
 11	11	42	42	2.0	1/2	1/2	2/2	2	1	iv64(96)/III		b	i		iv64(96)/III		iv		64	96	III			m	1	1	-1, -4, -7	-2	-4	-1
-12	12	44	44	2.0	0	0	2/2	2	1	iio/VI/III		b	i		iio/VI/III		ii	o			VI/III			o	1	1	2, -1, -4		2	2
+12	12	44	44	2.0	0	0	2/2	2	1	biv2(^b6)		b	i		biv2(^b6)		biv		2	^b6				mm7	1	1	-5, -8, -11, -7		-8	-5
 12	12	46	46	2.0	1/2	1/2	2/2	2	1	bVIM7(9)/III		b	i		bVIM7(9)/III		bVI	M	7	9	III			MM7	1	1	-7, -3, -6, -2	2	-7	-7
 13	13	48	48	2.0	0	0	2/2	2	1	ii%7/bV		b	i		ii%7/bV		ii	%	7		bV			%7	1	1	-4, -7, -10, -6		-4	-4
-13	13	50	50	1.0	1/2	1/2	2/2	2	1	bII7(9)/bV		b	i		bII7(9)/bV		bII		7	9	bV			Mm7	1	1	-11, -7, -10, -13	-2	-11	-11
+13	13	50	50	1.0	1/2	1/2	2/2	2	1	IV(+9)		b	i		IV(+9)		IV			+9				M	1	1	-1, 3, 0	1	-1	-1
 13	13	51	51	1.0	3/4	3/4	2/2	2	1	I2/bV		b	i		I2/bV		I		2		bV			Mm7	1	1	-8, -6, -2, -5		-6	-8
 14	14	52	52	2.0	0	0	2/2	2	1	IV6/bV		b	i		IV6/bV		IV		6		bV			M	1	1	-3, -6, -7		-7	-3
-14	14	54	54	1.0	1/2	1/2	2/2	2	1	IVM2/bVII		b	i		IVM2/bVII		IV	M	2		bVII			MM7	1	1	-5, -10, -6, -9		-10	-5
-14	14	55	55	2.0	3/4	3/4	2/2	2	1	bIII+/bVII		b	i		bIII+/bVII		bIII	+			bVII			+	1	1	-12, -8, -4		-12	-12
-15	15	57	57	3.0	1/4	1/4	2/2	2	1	Fr7(11)/bVII		b	i		Fr7(11)/bVII	Fr	V		7	11b5	V/bVII			Fr	1	1	-7, -3, -13, -9	-8	-7	-7
+14	14	54	54	1.0	1/2	1/2	2/2	2	1	III(+#7)		b	i		III(+#7)		III			+#7				M	1	1	-3, 1, -2	9	-3	-3
+14	14	55	55	2.0	3/4	3/4	2/2	2	1	IV(+b6)		b	i		IV(+b6)		IV			+b6				M	1	1	-1, 3, 0	-5	-1	-1
+15	15	57	57	3.0	1/4	1/4	2/2	2	1	VI7(+9^#54)		b	i		VI7(+9^#54)		VI		7	+9^#54				Mm7	1	1	-4, 2, 4, -6	-2	-4	-4
 16	16	60	60	4.0	0	0	2/2	2	1	Fr43/iv|EC		b	i		Fr43/iv	Fr	V		43	b5	V/iv	EC		Fr	1	1	-5, -1, 1, 5		1	-5
 17	17	64	64	2.0	0	0	2/2	2	1	V		b	i		V		V							M	1	1	1, 5, 2		1	1
 17	17	66	66	2.0	1/2	1/2	2/2	2	1	V7/bII		b	i		V7/bII		V		7		bII			Mm7	1	1	-4, 0, -3, -6		-4	-4
