@@ -1,4 +1,4 @@
-mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	timesig	staff	voice	duration	nominal_duration	scalar	chord_id	dynamics	articulation	staff_text	tempo	qpm	metronome_base	metronome_number	tempo_visible	slur	crescendo_hairpin	decrescendo_hairpin
+mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	timesig	staff	voice	duration	nominal_duration	scalar	chord_id	dynamics	articulation	staff_text	tempo	qpm	metronome_base	metronome_number	tempo_visible	slur	decrescendo_hairpin	crescendo_hairpin
 1	1	0	0	0.0	0	0	Tempo	2/2	1	1	0							Allegrogiocoso𝅗𝅥=84	168.0	Allegrogiocoso𝅗𝅥	84.0	1.0			
 1	1	0	0	0.0	0	0	Dynamic	2/2	1	1	0				p										
 1	1	0	0	0.5	0	0	Chord	2/2	1	1	1/8	1/8	1	0											
@@ -61,11 +61,11 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	
 6	6	21	21	0.5	1/4	1/4	Chord	2/2	1	1	1/8	1/8	1	56											
 6	6	43/2	43/2	0.5	3/8	3/8	Chord	2/2	1	1	1/8	1/8	1	57											
 6	6	22	22	0.0	1/2	1/2	StaffText	2/2	1	1	0						<i>smorzando</i>								
-6	6	22	22	0.0	1/2	1/2	Spanner	2/2	1	1	0														0
-6	6	22	22	0.5	1/2	1/2	Chord	2/2	1	1	1/8	1/8	1	58											0
-6	6	45/2	45/2	0.5	5/8	5/8	Chord	2/2	1	1	1/8	1/8	1	59											0
-6	6	23	23	0.5	3/4	3/4	Chord	2/2	1	1	1/8	1/8	1	60											0
-6	6	47/2	47/2	0.5	7/8	7/8	Chord	2/2	1	1	1/8	1/8	1	61											0
+6	6	22	22	0.0	1/2	1/2	Spanner	2/2	1	1	0													0	
+6	6	22	22	0.5	1/2	1/2	Chord	2/2	1	1	1/8	1/8	1	58										0	
+6	6	45/2	45/2	0.5	5/8	5/8	Chord	2/2	1	1	1/8	1/8	1	59										0	
+6	6	23	23	0.5	3/4	3/4	Chord	2/2	1	1	1/8	1/8	1	60										0	
+6	6	47/2	47/2	0.5	7/8	7/8	Chord	2/2	1	1	1/8	1/8	1	61										0	
 6	6	20	20	2.0	0	0	Chord	2/2	2	1	1/2	1/2	1	62		articMarcatoAbove							1		
 6	6	22	22	1.5	1/2	1/2	Chord	2/2	2	1	3/8	1/4	3/2	63									1		
 6	6	47/2	47/2	0.5	7/8	7/8	Chord	2/2	2	1	1/8	1/8	1	64									1		
@@ -88,33 +88,33 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	
 7	7	27	27	0.5	3/4	3/4	Chord	2/2	2	1	1/8	1/8	1	77		articStaccatoAbove									
 7	7	55/2	55/2	0.5	7/8	7/8	Chord	2/2	2	1	1/8	1/8	1	78		articStaccatoAbove									
 8	8	28	28	1.0	0	0	Chord	2/2	1	1	1/4	1/4	1	79		articTenutoBelow									
-8	8	29	29	0.0	1/4	1/4	Spanner	2/2	1	1	0													0	
-8	8	29	29	0.25	1/4	1/4	Chord	2/2	1	1	1/16	1/16	1	80		articAccentAbove							2	0	
-8	8	117/4	117/4	0.25	5/16	5/16	Chord	2/2	1	1	1/16	1/16	1	81									2	0	
-8	8	59/2	59/2	0.25	3/8	3/8	Chord	2/2	1	1	1/16	1/16	1	82									2	0	
-8	8	119/4	119/4	0.25	7/16	7/16	Chord	2/2	1	1	1/16	1/16	1	83									2	0	
+8	8	29	29	0.0	1/4	1/4	Spanner	2/2	1	1	0														0
+8	8	29	29	0.25	1/4	1/4	Chord	2/2	1	1	1/16	1/16	1	80		articAccentAbove							2		0
+8	8	117/4	117/4	0.25	5/16	5/16	Chord	2/2	1	1	1/16	1/16	1	81									2		0
+8	8	59/2	59/2	0.25	3/8	3/8	Chord	2/2	1	1	1/16	1/16	1	82									2		0
+8	8	119/4	119/4	0.25	7/16	7/16	Chord	2/2	1	1	1/16	1/16	1	83									2		0
 8	8	30	30	0.0	1/2	1/2	Spanner	2/2	1	1	0														
 8	8	30	30	1.0	1/2	1/2	Chord	2/2	1	1	1/4	1/4	1	84		articTenutoAbove									
-8	8	31	31	0.0	3/4	3/4	Spanner	2/2	1	1	0													1	
-8	8	31	31	0.25	3/4	3/4	Chord	2/2	1	1	1/16	1/16	1	85		articAccentAbove							3	1	
-8	8	125/4	125/4	0.25	13/16	13/16	Chord	2/2	1	1	1/16	1/16	1	86									3	1	
-8	8	63/2	63/2	0.25	7/8	7/8	Chord	2/2	1	1	1/16	1/16	1	87									3	1	
-8	8	127/4	127/4	0.25	15/16	15/16	Chord	2/2	1	1	1/16	1/16	1	88									3	1	
+8	8	31	31	0.0	3/4	3/4	Spanner	2/2	1	1	0														1
+8	8	31	31	0.25	3/4	3/4	Chord	2/2	1	1	1/16	1/16	1	85		articAccentAbove							3		1
+8	8	125/4	125/4	0.25	13/16	13/16	Chord	2/2	1	1	1/16	1/16	1	86									3		1
+8	8	63/2	63/2	0.25	7/8	7/8	Chord	2/2	1	1	1/16	1/16	1	87									3		1
+8	8	127/4	127/4	0.25	15/16	15/16	Chord	2/2	1	1	1/16	1/16	1	88									3		1
 8	8	28	28	1.0	0	0	Chord	2/2	2	1	1/4	1/4	1	89		articTenutoAbove									
 8	8	29	29	1.0	1/4	1/4	Chord	2/2	2	1	1/4	1/4	1	90									4		
 8	8	30	30	1.0	1/2	1/2	Chord	2/2	2	1	1/4	1/4	1	91		articTenutoAbove									
 8	8	31	31	1.0	3/4	3/4	Chord	2/2	2	1	1/4	1/4	1	92									5		
 9	9	32	32	0.0	0	0	Spanner	2/2	1	1	0														
 9	9	32	32	1.0	0	0	Chord	2/2	1	1	1/4	1/4	1	93		articTenutoAbove									
-9	9	33	33	0.0	1/4	1/4	Spanner	2/2	1	1	0													2	
-9	9	33	33	0.5	1/4	1/4	Chord	2/2	1	1	1/8	1/8	1	94		articStaccatoAbove								2	
-9	9	67/2	67/2	0.5	3/8	3/8	Chord	2/2	1	1	1/8	1/8	1	95		articStaccatoAbove								2	
+9	9	33	33	0.0	1/4	1/4	Spanner	2/2	1	1	0														2
+9	9	33	33	0.5	1/4	1/4	Chord	2/2	1	1	1/8	1/8	1	94		articStaccatoAbove									2
+9	9	67/2	67/2	0.5	3/8	3/8	Chord	2/2	1	1	1/8	1/8	1	95		articStaccatoAbove									2
 9	9	34	34	0.0	1/2	1/2	Spanner	2/2	1	1	0														
 9	9	34	34	0.5	1/2	1/2	Chord	2/2	1	1	1/8	1/8	1	96									6		
-9	9	69/2	69/2	0.0	5/8	5/8	Spanner	2/2	1	1	0														1
-9	9	69/2	69/2	0.5	5/8	5/8	Chord	2/2	1	1	1/8	1/8	1	97											1
-9	9	35	35	0.5	3/4	3/4	Chord	2/2	1	1	1/8	1/8	1	98		articStaccatoBelow									1
-9	9	71/2	71/2	0.5	7/8	7/8	Chord	2/2	1	1	1/8	1/8	1	99		articStaccatoBelow									1
+9	9	69/2	69/2	0.0	5/8	5/8	Spanner	2/2	1	1	0													1	
+9	9	69/2	69/2	0.5	5/8	5/8	Chord	2/2	1	1	1/8	1/8	1	97										1	
+9	9	35	35	0.5	3/4	3/4	Chord	2/2	1	1	1/8	1/8	1	98		articStaccatoBelow								1	
+9	9	71/2	71/2	0.5	7/8	7/8	Chord	2/2	1	1	1/8	1/8	1	99		articStaccatoBelow								1	
 9	9	32	32	1.0	0	0	Chord	2/2	2	1	1/4	1/4	1	100		articTenutoAbove									
 9	9	34	34	2.0	1/2	1/2	Chord	2/2	2	1	1/2	1/2	1	101									7		
 10	10	36	36	0.0	0	0	Spanner	3/2	1	1	0														
@@ -125,18 +125,18 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	
 10	10	151/4	151/4	0.25	7/16	7/16	Chord	3/2	1	1	1/16	1/16	1	106									8		
 10	10	38	38	0.0	1/2	1/2	StaffText	3/2	1	1	0						<i>poco cresc.</i>								
 10	10	38	38	1.0	1/2	1/2	Chord	3/2	1	1	1/4	1/4	1	107											
-10	10	39	39	0.0	3/4	3/4	Spanner	3/2	1	1	0													3	
-10	10	39	39	0.25	3/4	3/4	Chord	3/2	1	1	1/16	1/16	1	108									9	3	
-10	10	157/4	157/4	0.25	13/16	13/16	Chord	3/2	1	1	1/16	1/16	1	109									9	3	
-10	10	79/2	79/2	0.25	7/8	7/8	Chord	3/2	1	1	1/16	1/16	1	110									9	3	
-10	10	159/4	159/4	0.25	15/16	15/16	Chord	3/2	1	1	1/16	1/16	1	111									9	3	
+10	10	39	39	0.0	3/4	3/4	Spanner	3/2	1	1	0														3
+10	10	39	39	0.25	3/4	3/4	Chord	3/2	1	1	1/16	1/16	1	108									9		3
+10	10	157/4	157/4	0.25	13/16	13/16	Chord	3/2	1	1	1/16	1/16	1	109									9		3
+10	10	79/2	79/2	0.25	7/8	7/8	Chord	3/2	1	1	1/16	1/16	1	110									9		3
+10	10	159/4	159/4	0.25	15/16	15/16	Chord	3/2	1	1	1/16	1/16	1	111									9		3
 10	10	40	40	0.0	1	1	Spanner	3/2	1	1	0														
 10	10	40	40	1.0	1	1	Chord	3/2	1	1	1/4	1/4	1	112		articTenutoAbove									
-10	10	41	41	0.0	5/4	5/4	Spanner	3/2	1	1	0													4	
-10	10	41	41	0.25	5/4	5/4	Chord	3/2	1	1	1/16	1/16	1	113									10	4	
-10	10	165/4	165/4	0.25	21/16	21/16	Chord	3/2	1	1	1/16	1/16	1	114									10	4	
-10	10	83/2	83/2	0.25	11/8	11/8	Chord	3/2	1	1	1/16	1/16	1	115									10	4	
-10	10	167/4	167/4	0.25	23/16	23/16	Chord	3/2	1	1	1/16	1/16	1	116									10	4	
+10	10	41	41	0.0	5/4	5/4	Spanner	3/2	1	1	0														4
+10	10	41	41	0.25	5/4	5/4	Chord	3/2	1	1	1/16	1/16	1	113									10		4
+10	10	165/4	165/4	0.25	21/16	21/16	Chord	3/2	1	1	1/16	1/16	1	114									10		4
+10	10	83/2	83/2	0.25	11/8	11/8	Chord	3/2	1	1	1/16	1/16	1	115									10		4
+10	10	167/4	167/4	0.25	23/16	23/16	Chord	3/2	1	1	1/16	1/16	1	116									10		4
 10	10	36	36	1.0	0	0	Chord	3/2	2	1	1/4	1/4	1	117											
 10	10	38	38	0.25	1/2	1/2	Chord	3/2	2	1	1/16	1/16	1	118		articAccentBelow							11		
 10	10	153/4	153/4	0.25	9/16	9/16	Chord	3/2	2	1	1/16	1/16	1	119									11		
@@ -164,9 +164,9 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	
 11	11	89/2	89/2	0.5	5/8	5/8	Chord	2/2	2	1	1/8	1/8	1	137		articStaccatoAbove									
 11	11	45	45	0.5	3/4	3/4	Chord	2/2	2	1	1/8	1/8	1	138		articStaccatoAbove									
 11	11	91/2	91/2	0.5	7/8	7/8	Chord	2/2	2	1	1/8	1/8	1	139		articStaccatoAbove									
-12	12	46	46	0.0	0	0	Spanner	2/2	1	1	0													5	
-12	12	46	46	0.16666666666666666	0	0	Chord	2/2	1	1	1/24	1/16	2/3	140		articAccentAbove							13	5	
-12	12	277/6	277/6	0.16666666666666666	1/24	1/24	Chord	2/2	1	1	1/24	1/16	2/3	141									13	5	
+12	12	46	46	0.0	0	0	Spanner	2/2	1	1	0														5
+12	12	46	46	0.16666666666666666	0	0	Chord	2/2	1	1	1/24	1/16	2/3	140		articAccentAbove							13		5
+12	12	277/6	277/6	0.16666666666666666	1/24	1/24	Chord	2/2	1	1	1/24	1/16	2/3	141									13		5
 12	12	139/3	139/3	0.0	1/12	1/12	Spanner	2/2	1	1	0														
 12	12	139/3	139/3	0.6666666666666666	1/12	1/12	Chord	2/2	1	1	1/6	1/4	2/3	142		articMarcatoAbove									
 12	12	47	47	0.5	1/4	1/4	Chord	2/2	1	1	1/8	1/8	1	143		articStaccatoAbove									
@@ -183,17 +183,17 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	
 12	12	49	49	0.5	3/4	3/4	Chord	2/2	2	1	1/8	1/8	1	154		articStaccatoAbove									
 12	12	99/2	99/2	0.5	7/8	7/8	Chord	2/2	2	1	1/8	1/8	1	155		articStaccatoAbove									
 13	13	50	50	0.0	0	0	StaffText	2/2	1	1	0						<i>cresc.</i>								
-13	13	50	50	0.0	0	0	Spanner	2/2	1	1	0													6	
-13	13	50	50	0.16666666666666666	0	0	Chord	2/2	1	1	1/24	1/16	2/3	156		articAccentAbove							14	6	
-13	13	301/6	301/6	0.16666666666666666	1/24	1/24	Chord	2/2	1	1	1/24	1/16	2/3	157									14	6	
-13	13	151/3	151/3	0.6666666666666666	1/12	1/12	Chord	2/2	1	1	1/6	1/4	2/3	158		articMarcatoAbove								6	
+13	13	50	50	0.0	0	0	Spanner	2/2	1	1	0														6
+13	13	50	50	0.16666666666666666	0	0	Chord	2/2	1	1	1/24	1/16	2/3	156		articAccentAbove							14		6
+13	13	301/6	301/6	0.16666666666666666	1/24	1/24	Chord	2/2	1	1	1/24	1/16	2/3	157									14		6
+13	13	151/3	151/3	0.6666666666666666	1/12	1/12	Chord	2/2	1	1	1/6	1/4	2/3	158		articMarcatoAbove									6
 13	13	51	51	0.0	1/4	1/4	Spanner	2/2	1	1	0														
 13	13	51	51	0.5	1/4	1/4	Chord	2/2	1	1	1/8	1/8	1	159		articStaccatoAbove									
 13	13	103/2	103/2	0.5	3/8	3/8	Chord	2/2	1	1	1/8	1/8	1	160		articStaccatoAbove									
-13	13	52	52	0.0	1/2	1/2	Spanner	2/2	1	1	0													7	
-13	13	52	52	0.16666666666666666	1/2	1/2	Chord	2/2	1	1	1/24	1/16	2/3	161		articAccentAbove							15	7	
-13	13	313/6	313/6	0.16666666666666666	13/24	13/24	Chord	2/2	1	1	1/24	1/16	2/3	162									15	7	
-13	13	157/3	157/3	0.6666666666666666	7/12	7/12	Chord	2/2	1	1	1/6	1/4	2/3	163		articMarcatoAbove								7	
+13	13	52	52	0.0	1/2	1/2	Spanner	2/2	1	1	0														7
+13	13	52	52	0.16666666666666666	1/2	1/2	Chord	2/2	1	1	1/24	1/16	2/3	161		articAccentAbove							15		7
+13	13	313/6	313/6	0.16666666666666666	13/24	13/24	Chord	2/2	1	1	1/24	1/16	2/3	162									15		7
+13	13	157/3	157/3	0.6666666666666666	7/12	7/12	Chord	2/2	1	1	1/6	1/4	2/3	163		articMarcatoAbove									7
 13	13	53	53	0.0	3/4	3/4	Spanner	2/2	1	1	0														
 13	13	53	53	0.5	3/4	3/4	Chord	2/2	1	1	1/8	1/8	1	164		articStaccatoAbove									
 13	13	107/2	107/2	0.5	7/8	7/8	Chord	2/2	1	1	1/8	1/8	1	165		articStaccatoAbove									
@@ -203,22 +203,22 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	
 13	13	52	52	1.0	1/2	1/2	Chord	2/2	2	1	1/4	1/4	1	169		articAccentBelow									
 13	13	53	53	0.5	3/4	3/4	Chord	2/2	2	1	1/8	1/8	1	170		articStaccatoBelow									
 13	13	107/2	107/2	0.5	7/8	7/8	Chord	2/2	2	1	1/8	1/8	1	171		articStaccatoBelow									
-14	14	54	54	0.0	0	0	Spanner	2/2	1	1	0													8	
-14	14	54	54	0.16666666666666666	0	0	Chord	2/2	1	1	1/24	1/16	2/3	172		articAccentAbove							16	8	
-14	14	325/6	325/6	0.16666666666666666	1/24	1/24	Chord	2/2	1	1	1/24	1/16	2/3	173									16	8	
-14	14	163/3	163/3	0.6666666666666666	1/12	1/12	Chord	2/2	1	1	1/6	1/4	2/3	174		articMarcatoAbove								8	
+14	14	54	54	0.0	0	0	Spanner	2/2	1	1	0														8
+14	14	54	54	0.16666666666666666	0	0	Chord	2/2	1	1	1/24	1/16	2/3	172		articAccentAbove							16		8
+14	14	325/6	325/6	0.16666666666666666	1/24	1/24	Chord	2/2	1	1	1/24	1/16	2/3	173									16		8
+14	14	163/3	163/3	0.6666666666666666	1/12	1/12	Chord	2/2	1	1	1/6	1/4	2/3	174		articMarcatoAbove									8
 14	14	55	55	0.0	1/4	1/4	Spanner	2/2	1	1	0														
 14	14	55	55	0.5	1/4	1/4	Chord	2/2	1	1	1/8	1/8	1	175		articStaccatoAbove									
 14	14	111/2	111/2	0.5	3/8	3/8	Chord	2/2	1	1	1/8	1/8	1	176		articStaccatoAbove									
-14	14	56	56	0.0	1/2	1/2	Spanner	2/2	1	1	0													9	
-14	14	56	56	0.16666666666666666	1/2	1/2	Chord	2/2	1	1	1/24	1/16	2/3	177		articAccentAbove							17	9	
-14	14	337/6	337/6	0.16666666666666666	13/24	13/24	Chord	2/2	1	1	1/24	1/16	2/3	178									17	9	
-14	14	169/3	169/3	0.6666666666666666	7/12	7/12	Chord	2/2	1	1	1/6	1/4	2/3	179		articMarcatoAbove								9	
+14	14	56	56	0.0	1/2	1/2	Spanner	2/2	1	1	0														9
+14	14	56	56	0.16666666666666666	1/2	1/2	Chord	2/2	1	1	1/24	1/16	2/3	177		articAccentAbove							17		9
+14	14	337/6	337/6	0.16666666666666666	13/24	13/24	Chord	2/2	1	1	1/24	1/16	2/3	178									17		9
+14	14	169/3	169/3	0.6666666666666666	7/12	7/12	Chord	2/2	1	1	1/6	1/4	2/3	179		articMarcatoAbove									9
 14	14	57	57	0.0	3/4	3/4	StaffText	2/2	1	1	0						<i>dim.</i>								
 14	14	57	57	0.0	3/4	3/4	Spanner	2/2	1	1	0														
-14	14	57	57	0.0	3/4	3/4	Spanner	2/2	1	1	0														2
-14	14	57	57	0.5	3/4	3/4	Chord	2/2	1	1	1/8	1/8	1	180		articAccentAbove									2
-14	14	115/2	115/2	0.5	7/8	7/8	Chord	2/2	1	1	1/8	1/8	1	181		articStaccatoAbove									2
+14	14	57	57	0.0	3/4	3/4	Spanner	2/2	1	1	0													2	
+14	14	57	57	0.5	3/4	3/4	Chord	2/2	1	1	1/8	1/8	1	180		articAccentAbove								2	
+14	14	115/2	115/2	0.5	7/8	7/8	Chord	2/2	1	1	1/8	1/8	1	181		articStaccatoAbove								2	
 14	14	54	54	1.0	0	0	Chord	2/2	2	1	1/4	1/4	1	182		articAccentBelow									
 14	14	55	55	0.5	1/4	1/4	Chord	2/2	2	1	1/8	1/8	1	183		articStaccatoBelow									
 14	14	111/2	111/2	0.5	3/8	3/8	Chord	2/2	2	1	1/8	1/8	1	184		articStaccatoBelow									
@@ -253,13 +253,13 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	
 16	16	129/2	129/2	0.5	5/8	5/8	Chord	2/2	2	1	1/8	1/8	1	211		articStaccatoBelow									
 16	16	65	65	0.5	3/4	3/4	Chord	2/2	2	1	1/8	1/8	1	212		articStaccatoBelow									
 16	16	131/2	131/2	0.5	7/8	7/8	Chord	2/2	2	1	1/8	1/8	1	213		articStaccatoBelow									
-17	17	66	66	0.0	0	0	Spanner	3/2	1	1	0													10	
-17	17	66	66	0.5	0	0	Chord	3/2	1	1	1/8	1/8	1	214		articStaccatoBelow								10	
-17	17	133/2	133/2	0.5	1/8	1/8	Chord	3/2	1	1	1/8	1/8	1	215		articStaccatoBelow								10	
-17	17	68	68	0.5	1/2	1/2	Chord	3/2	1	1	1/8	1/8	1	216		articAccentBelow								10	
-17	17	137/2	137/2	0.5	5/8	5/8	Chord	3/2	1	1	1/8	1/8	1	217		articStaccatoBelow								10	
-17	17	70	70	0.5	1	1	Chord	3/2	1	1	1/8	1/8	1	218		articAccentBelow								10	
-17	17	141/2	141/2	0.5	9/8	9/8	Chord	3/2	1	1	1/8	1/8	1	219		articStaccatoBelow								10	
+17	17	66	66	0.0	0	0	Spanner	3/2	1	1	0														10
+17	17	66	66	0.5	0	0	Chord	3/2	1	1	1/8	1/8	1	214		articStaccatoBelow									10
+17	17	133/2	133/2	0.5	1/8	1/8	Chord	3/2	1	1	1/8	1/8	1	215		articStaccatoBelow									10
+17	17	68	68	0.5	1/2	1/2	Chord	3/2	1	1	1/8	1/8	1	216		articAccentBelow									10
+17	17	137/2	137/2	0.5	5/8	5/8	Chord	3/2	1	1	1/8	1/8	1	217		articStaccatoBelow									10
+17	17	70	70	0.5	1	1	Chord	3/2	1	1	1/8	1/8	1	218		articAccentBelow									10
+17	17	141/2	141/2	0.5	9/8	9/8	Chord	3/2	1	1	1/8	1/8	1	219		articStaccatoBelow									10
 17	17	67	67	0.5	1/4	1/4	Chord	3/2	2	1	1/8	1/8	1	220		articStaccatoBelow									
 17	17	135/2	135/2	0.5	3/8	3/8	Chord	3/2	2	1	1/8	1/8	1	221		articStaccatoBelow									
 17	17	69	69	0.5	3/4	3/4	Chord	3/2	2	1	1/8	1/8	1	222		articStaccatoAbove									
@@ -268,11 +268,11 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	
 17	17	143/2	143/2	0.5	11/8	11/8	Chord	3/2	2	1	1/8	1/8	1	225		articStaccatoAbove									
 18	18	72	72	0.0	0	0	Dynamic	2/2	1	1	0				f										
 18	18	72	72	0.0	0	0	Spanner	2/2	1	1	0														
-18	18	72	72	0.0	0	0	Spanner	2/2	1	1	0														3
-18	18	72	72	0.5	0	0	Chord	2/2	1	1	1/8	1/8	1	226									19		3
-18	18	145/2	145/2	0.0	1/8	1/8	StaffText	2/2	1	1	0						<i>dim.</i>								3
-18	18	145/2	145/2	0.0	1/8	1/8	Dynamic	2/2	1	1	0				sf										3
-18	18	145/2	145/2	0.5	1/8	1/8	Chord	2/2	1	1	1/8	1/8	1	227											3
+18	18	72	72	0.0	0	0	Spanner	2/2	1	1	0													3	
+18	18	72	72	0.5	0	0	Chord	2/2	1	1	1/8	1/8	1	226									19	3	
+18	18	145/2	145/2	0.0	1/8	1/8	StaffText	2/2	1	1	0						<i>dim.</i>							3	
+18	18	145/2	145/2	0.0	1/8	1/8	Dynamic	2/2	1	1	0				sf									3	
+18	18	145/2	145/2	0.5	1/8	1/8	Chord	2/2	1	1	1/8	1/8	1	227										3	
 18	18	74	74	0.0	1/2	1/2	Spanner	2/2	1	1	0														
 18	18	73	73	0.5	1/4	1/4	Chord	2/2	2	1	1/8	1/8	1	228		articMarcatoBelow									
 18	18	147/2	147/2	0.5	3/8	3/8	Chord	2/2	2	1	1/8	1/8	1	229											

@@ -13067,13 +13067,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bvi6(9)-#v6(#9)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>#v6(#9)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         </Measure>
@@ -13319,13 +13313,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVI(#119#8)-vi(11#8#7)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>vi(11#8#7)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
