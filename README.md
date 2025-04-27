@@ -12,6 +12,11 @@ and serves as welcome page for both
 
 For information on how to obtain and use the dataset, please refer to [this documentation page](https://dcmlab.github.io/bartok_bagatelles/introduction).
 
+When you use (parts of) this dataset in your work, please read and cite the accompanying data report:
+
+_Hentschel, J., Rammos, Y., Neuwirth, M., & Rohrmeier, M. (2025). A corpus and a modular infrastructure for the 
+empirical study of (an)notated music. Scientific Data, 12(1), 685. https://doi.org/10.1038/s41597-025-04976-z_
+
 # Béla Bartók – 14 Bagatelles, Op. 6 (A corpus of annotated scores)
 
 The Bagatelles of Op. 6 (1908) constitute some of Bartók's earliest explorations with the techniques that would come to define his output. Namely, they evoke the Hungarian folk melodies whose study Bartók had recently undertaken (particularly in evidence in nos. 4 and 5), and utilize innovative means of destabilizing the tonal centre. For this latter reason, the annotations in this repository reflect some of the most extreme extensions of the DCML standard yet. Note, in particular, the extensive use of secondary functions to #IV, which theorist Ernő Lendvai has proposed as a surrogate tonic function in Bartók's language. 
@@ -83,7 +88,7 @@ Please [create an issue](https://github.com/DCMLab/bartok_bagatelles/issues) and
 
 ## Cite as
 
-> Johannes Hentschel, Yannis Rammos, Markus Neuwirth, & Martin Rohrmeier. (2025). Béla Bartók – 14 Bagatelles, Op. 6 (A corpus of annotated scores) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14996945
+> Hentschel, J., Rammos, Y., Neuwirth, M., & Rohrmeier, M. (2025). A corpus and a modular infrastructure for the empirical study of (an)notated music. Scientific Data, 12(1), 685. https://doi.org/10.1038/s41597-025-04976-z
 
 ## License
 
